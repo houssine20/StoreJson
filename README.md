@@ -1,4 +1,7 @@
 # StoreJson
+
+testUpdate.apk
+
 VidmateUpdate.apk
 
 
