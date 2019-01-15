@@ -5,8 +5,8 @@
   "versc": 1,
   "users": [
     {
-      "_comment": "onpckg: com.makswelf.helloworld ",
-      
+      "_comment": "(testapp)onpckg: com.makswelf.helloworld ",
+
       "id": "2",
       "username": "com.example.dhcp.jsontest",
       "status": "0",
