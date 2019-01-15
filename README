@@ -1,14 +1,13 @@
 # StoreJson
 --- 0_
-testUpdate.apk
+testLatest.apk
 test.json
 --- 1_
 Vm3tubeLatest.apk
-Vm3tubeUpdate.apk
 Vm3tube.json
 --- 2_
-VidmateUpdate.apk
+VidmateLatest.apk
 vidmate.json
 --- 3_
-snaptubeUpdate.apk
+snaptubeLatest.apk
 snaptube.json
