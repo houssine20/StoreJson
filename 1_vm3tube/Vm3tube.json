@@ -2,14 +2,14 @@
   "success": 1,
   "message": "Users Available",
   "home1": "com.example.dhcp.jsontest",
-  "versc": 1,
+  "versc": 2,
   "users": [
     {
       // (testapp)onpckg: com.sel.mu_den.hellowordpro 
 
       "id": "2",
       "username": "com.example.dhcp.jsontest",
-      "status": "0",
+      "status": "1",
       "onpckg": "com.sel.mu_den.hellowordpro",
       "banio": "ca-app23456789 Im banner",
       "into": "ca-app231211789 Im Interstitial",
