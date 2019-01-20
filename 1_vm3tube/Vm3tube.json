@@ -5,7 +5,7 @@
   "versc": 1,
   "users": [
     {
-      "_comment": "(testapp)onpckg: com.makswelf.helloworld ",
+      // (testapp)onpckg: com.sel.mu_den.hellowordpro 
 
       "id": "2",
       "username": "com.example.dhcp.jsontest",
@@ -16,92 +16,12 @@
       "thio": "ca-app2111119 Im Thiori"
     },
     {
+      // Example Syntaxe
       "id": "3",
-      "username": "com.GVDCWFQ.GVF5dcqdwcC",
-      "status": "1",
-      "onpckg": "com.musicplayer.music",
-      "banio": "",
-      "into": "",
-      "thio": ""
-    },
-    {
-      "id": "4",
-      "username": "com.rDFCD3344RRr.oJJLLr4Ee",
-      "status": "0",
-      "onpckg": "com.makswelf.helloworld",
-      "banio": "",
-      "into": "",
-      "thio": ""
-    },
-    {
-      "id": "5",
-      "username": "com.dsCFVYT4ZSs.zXcHHGAa11t",
-      "status": "0",
-      "onpckg": "com.makswelf.helloworld",
-      "banio": "",
-      "into": "",
-      "thio": ""
-    },
-    {
-      "id": "6",
-      "username": "com.hary.hdydbsgsg44asaa",
-      "status": "1",
-      "onpckg": "erfrayer",
-      "banio": "",
-      "into": "",
-      "thio": ""
-    },
-    {
-      "id": "7",
-      "username": "com.tyhgfq.ikj876vDS",
-      "status": "1",
-      "onpckg": null,
-      "banio": "",
-      "into": "",
-      "thio": ""
-    },
-    {
-      "id": "8",
-      "username": "com.GogoGTfv55g.hnb76okj",
-      "status": "1",
-      "onpckg": null,
-      "banio": "",
-      "into": "",
-      "thio": ""
-    },
-    {
-      "id": "9",
-      "username": "com.gbqijn6edc.vfikw7rf",
-      "status": "0",
-      "onpckg": null,
-      "banio": "",
-      "into": "",
-      "thio": ""
-    },
-    {
-      "id": "10",
-      "username": "com.gvfiikktour.hdndnefda",
-      "status": "0",
-      "onpckg": null,
-      "banio": "",
-      "into": "",
-      "thio": ""
-    },
-    {
-      "id": "11",
-      "username": "com.fikolass.fvccxokijjii",
-      "status": "0",
-      "onpckg": null,
-      "banio": "",
-      "into": "",
-      "thio": ""
-    },
-    {
-      "id": "12",
       "username": "com.JawharaElsa.tipsheadphone.gyhfrfffs",
       "status": "0",
       "onpckg": null,
-      "banio": "end",
+      "banio": "",
       "into": "",
       "thio": ""
     }
