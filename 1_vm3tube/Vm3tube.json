@@ -12,7 +12,7 @@
       "username": "com.example.dhcp.jsontest",
       "banio": "ca-app23456789 Im banner",
       "into": "ca-app231211789 Im Interstitial",
-      "thio": "ca-app2111119 Im Thiori",
+      "thio": "ca-app2111119 Im Thiotototototot",
       "status": "1",
       "onpckg": null
     },
@@ -20,9 +20,9 @@
       // Example Syntaxe 
       "id": "3",
       "username": "com.JawharaElsa.tipsheadphone.gyhfrfffs",
-      "banio": "",
-      "into": "",
-      "thio": "",
+      "banio": "azzz",
+      "into": "ezez",
+      "thio": "ezefref",
       "status": "0",
       "onpckg": "testtl.testn.testro"
     },
@@ -30,9 +30,9 @@
       // Example Syntaxe
       "id": "4",
       "username": "com.JawharaElsa.tipsheadphone.gyhfrfffs",
-      "banio": "",
-      "into": "",
-      "thio": "",
+      "banio": "fef",
+      "into": "rez",
+      "thio": "erzer",
       "status": "0",
       "onpckg": null
     }
