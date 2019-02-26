@@ -1,7 +1,7 @@
 { //N.B : all update after modify is (3min)
   "success": 1,
   "message": "Users Available",
-  "btnscl": "Facebook",
+  "btnscl": "Twitter",
   "urlsocl": "https://twitter.com/_MYT3_",
   // Pckg 1.apk com.GogoGTfv55g.hnb76okj
   "home1": "com.GogoGTfv55g.hnb76okj",
@@ -78,16 +78,16 @@
       "banio": "ca-app-pub-2277676619239809/9890935106",
       "into": "ca-app-pub-2277676619239809/1277005969",
       "thio": "ca-app-pub-2277676619239809/5760118409",
-      "status": "1",
-      "onpckg": null
+      "status": "0",
+      "onpckg": "com.TeamFR.hygtxoik.hysgtdd21u88i"
     },
     {
       // ggle 145
       "id": "9",
       "username": "com.TeamFR.hygtxoik.hysgtdd21u88i",
-      "banio": "ca-app-pub-3940256099942544/6300978111",
-      "into": "ca-app-pub-3940256099942544/1033173712",
-      "thio": "ca-app-pub-3940256099942544/1033173712",
+      "banio": "ca-app-pub-2277676619239809/6006948535",
+      "into": "ca-app-pub-2277676619239809/4278810180",
+      "thio": "hola",
       "status": "1",
       "onpckg": null
     }
