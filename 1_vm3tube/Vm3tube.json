@@ -88,7 +88,7 @@
       "banio": "ca-app-pub-2277676619239809/9890935106",
       "into": "ca-app-pub-2277676619239809/1277005969",
       "thio": "ca-app-pub-2277676619239809/5760118409",
-      "status": "0",
+      "status": "1",
       "onpckg": "com.efRDvgsg5g8a8NH.gtbdf7hng4fdd"
     },
     {
@@ -98,7 +98,7 @@
       "banio": "ca-app-pub-2277676619239809/6006948535",
       "into": "ca-app-pub-2277676619239809/4278810180",
       "thio": "hola",
-      "status": "0",
+      "status": "1",
       "onpckg": "com.efRDvgsg5g8a8NH.gtbdf7hng4fdd"
     },
     {
@@ -108,11 +108,11 @@
       "banio": "ca-app-pub-2277676619239809/9211696379",
       "into": "ca-app-pub-2277676619239809/9950062970",
       "thio": "hola",
-      "status": "0",
+      "status": "1",
       "onpckg": "com.efRDvgsg5g8a8NH.gtbdf7hng4fdd"
     },
     {
-      // ggle 146
+      // ggle 146 X
       "id": "12",
       "username": "com.efRDvgsg5g8a8NH.gtbdf7hng4fdd",
       "banio": "ca-app-pub-2277676619239809/8196506919",
