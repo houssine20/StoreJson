@@ -1,37 +1,4 @@
-{ //N.B : all update after modify is (3min)
-  "success": 1,
-  "message": "Users Available",
-  "btnscl": "Twitter",
-  "urlsocl": "https://twitter.com/_MYT3_",
-  // Pckg 1.apk tooooootototo
-  "home1": "imnot.heeereee",
-  "versc": 1,
-  "users": [
-    {
-      // (testapp)"onpckg": "com.sel.mu_den.hellowordpro"
 
-      "id": "2",
-      "username": "com.eiiuiu.oiuuui",
-      "Allgetpi": "com.ImALLGETPACKG.exaeaeezt",
-      "Mingetpi": "com.ImMIN.exaeaeezt",
-      "banio": "ca-app23456789 Im banner",
-      "into": "ca-app231211789 Im Interstitial",
-      "thio": "ca-app2111119 Im Thiori",
-      "status": "1",
-      "onpckg": "com.sel.mu_den.hellowordpro"
-    },
-    {
-      // Example Syntaxe 
-      "id": "3",
-      "username": "com.JawharaElsa.tipsheadphone.gyhfrfffs",
-      "banio": "",
-      "into": "",
-      "thio": "",
-      "status": "1",
-      "onpckg": "testtl.testn.testro"
-    }
-  ]
-}
 
 { //N.B : all update after modify is (3min)
   "success": 1,
