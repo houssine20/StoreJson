@@ -26,12 +26,15 @@
     },
     {
       // Example Syntaxe 
+      //ca-app-pub-3940256099942544/1033173712
+       // ca-app-pub-3940256099942544/6300978111
+
       "id": "3",
       "username": "ma.testmazdev.testadanmuslim",
-      "banio": "hola banio",
+      "banio": "ca-app-pub-3940256099942544/6300978111",
       "into": "hola intr",
       "thio": "hola thio",
-      "status": "0",
+      "status": "1",
       "onpckg": "testtl.testn.testro"
     }
   ]
