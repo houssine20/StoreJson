@@ -58,6 +58,16 @@
       "thio": "hola thio",
       "status": "1",
       "onpckg": null
+    },
+    {
+      // test to updt sltuk 
+      "id": "6",
+      "username": "com.testsolatik.golar.kolpiss",
+      "banio": "hola banniii",
+      "into": "hola intoo",
+      "thio": "hola thio",
+      "status": "0",
+      "onpckg": null
     }
   ]
 }
