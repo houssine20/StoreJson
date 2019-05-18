@@ -53,20 +53,10 @@
       // Mybag1
       "id": "5",
       "username": "com.bagibag.My_bag.muslim.mo2mn.hisn_muslim.kolasqJHO",
-      "banio": "hola banniii",
-      "into": "hola intoo",
+      "banio": "ca-app-pub-1792009620133696/3456989311",
+      "into": "ca-app-pub-1792009620133696/7993649055",
       "thio": "hola thio",
       "status": "1",
-      "onpckg": null
-    },
-    {
-      // test to updt sltuk 
-      "id": "6",
-      "username": "com.testsolatik.golar.kolpiss",
-      "banio": "ca-app-pub-3940256099942544/6300978111",
-      "into": "ca-app-pub-3940256099942544/1033173712",
-      "thio": "ca-app-pub-3940256099942544/1033173712",
-      "status": "0",
       "onpckg": null
     }
   ]
