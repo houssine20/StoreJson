@@ -97,16 +97,18 @@
       "onpckg": null
     },
     {
-      // TEST Mybag1
+      // test AthkarMuslim
+
       "id": "8",
-      "username": "com.testbagibag.My_bag.muslim.mo2mn.hisn_muslim.kolasqJHO",
-      "jumppckgGH": "com.testbitsmedia.android.muslimpro",
-      "banio": "ca-app-pub-1792009620133696/3456989311",
-      "into": "ca-app-pub-1792009620133696/7993649055",
-      //thio ca-app-pub-1792009620133696/2279229892
-      "thio": "hola thio",
-      "status": "1",
-      "onpckg": null
+      "username": "com.example.dhcp.jsontest",
+      "jumppckgGH": "com.testoo.too29876too",
+      "publGH": "pub-115822156 Im ID ",
+      "banio": "ca-app23456789 Im banner",
+      "into": "ca-app231211789 Im Interstitial",
+      "thio": "ca-app2111119 Im Thiori",
+      "statu_Rndm_Adr_m_iod": "1",
+      "status": "0",
+      "onpckg": "com.sel.mu_den.hellowordpro"
     }
   ]
 }
