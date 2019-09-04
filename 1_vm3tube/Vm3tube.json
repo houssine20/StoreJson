@@ -145,7 +145,7 @@
     },
     {
                        
-      // ggle 147      
+      // ggle_vtnm_I 147      
       "id": "15",
       "username": "com.yOljfj65rfd.Uzyhglk1z",
       "Allgetpi": "com.ImALLGETPACKG.exaeaeezt", //old vers v4
@@ -170,20 +170,18 @@
     },
     {
                        
-      // Test ggle 147
+      // Test ggle_vtnm_II 100
       //ban ca-app-pub-3940256099942544/6300978111
       //int ca-app-pub-3940256099942544/1033173712
       "id": "16",
-      "username": "com.testyOljfj65rfd.Uzyhglk1z",
-      "Allgetpi": "com.ImALLGETPACKG.exaeaeezt", //old vers v4
-      "Mingetpi": "com.ImMIN.exaeaeezt", //old vers v4
-      "jumppckgGH": "toto.toto.andtataroid.toto",
+      "username": "com.testyt3dl.music",
+      "jumppckgGH": "todsto.tosdsto.ansdsddtataroid.todsto",
       "publGH": "pub-3940256099942544",
       "banio": "ca-app-pub-3940256099942544/6300978111",
       "into": "ca-app-pub-3940256099942544/1033173712",
       "thio": "hola thio",
       "statu_Rndm_Adr_m_iod": "0",
-      "status": "1",
+      "status": "0",
       "onpckg": null
     }
   ]
