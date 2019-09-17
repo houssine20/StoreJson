@@ -173,12 +173,16 @@
       // Test ggle_vtnm_II 100
       //ban ca-app-pub-3940256099942544/6300978111
       //int ca-app-pub-3940256099942544/1033173712
+      //vietnm
+      //ban ca-app-pub-7199204827849092/7368433603
+      //into ca-app-pub-7199204827849092/6909855332
+      
       "id": "16",
       "username": "com.testyt3dl.music",
       "jumppckgGH": "vietnm.jUYshdyG.kjdUJ6YYo",
       "publGH": "pub-7199204827849092",
-      "banio": "ca-app-pub-7199204827849092/7368433603",
-      "into": "ca-app-pub-7199204827849092/6909855332",
+      "banio": "ca-app-pub-3940256099942544/6300978111",
+      "into": "ca-app-pub-3940256099942544/1033173712",
       "thio": "hola thio",
       "statu_Rndm_Adr_m_iod": "1",
       "status": "1",
