@@ -1,0 +1,57 @@
+{ //N.B : all update after modify is (3min)
+  "success": 1,
+  "message": "Users Available",
+  "btnscl": "Twitter",
+  "urlsocl": "https://twitter.com/Mp3Mate",
+  // Pckg 1.apk com.GogoGTfv55g.hnb76okj
+  "home1": "com.MGogMtev55g.Mp36okj",
+  "versc": 1,
+  "users": [
+    {
+      // Vm3tube 1.apk
+      "id": "1",
+      "username": "com.MGogMtev55g.Mp36okj",
+      "jumppckgGH": "com.jmpMGogMteJumPov55g.jmpMp36okj",
+      "publGH": "hola_pub_id ",
+      "banio": "hola_banio",
+      "into": "hola_inters",
+      //"thio": "ca-app-pub-3064700802422525/3445354403",
+      "thio": "hola_thio",
+      "statu_Rndm_Adr_m_iod": "1",
+      //1 to active; 0 to disable
+      "status": "0",
+      "onpckg": null
+    },
+    {
+                       
+      // Syntaxe     
+      "id": "2",
+      "username": "com.syntaxyO5rfd.Syntaxek1z",
+      "jumppckgGH": "com.yujHYG7frvd.andTGFRroid.yUUkzmuslim765prouyh",
+      //new pub-5822111567432084
+      "publGH": "pub-598Syntax819204",
+      "banio": "ca-app-pub-598Syntax204/2742361683", 
+      "into": "ca-app-pub-598Syntax204/2606630316",
+      "thio": "hola thio",
+      "statu_Rndm_Adr_m_iod": "1",
+      "status": "1",
+      "onpckg": "com.Syntax1.testo1z"
+    },
+    {
+                       
+      // Test ggle_
+      //ban ca-app-pub-3940256099942544/6300978111
+      //int ca-app-pub-3940256099942544/1033173712
+      "id": "3",
+      "username": "com.TestTrgfFVYT4ZSs.testHGAa11t",
+      "jumppckgGH": "turc.jUYshdyG.kjdUJ6YYo",
+      "publGH": "pub-3940256099942544",
+      "banio": "ca-app-pub-3940256099942544/6300978111",
+      "into": "ca-app-pub-3940256099942544/1033173712",
+      "thio": "hola thio",
+      "statu_Rndm_Adr_m_iod": "1",
+      "status": "1",
+      "onpckg": "com.testoj65rfd.testoUzyhglk1z"
+    }
+  ]
+}
