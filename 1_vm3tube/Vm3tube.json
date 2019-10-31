@@ -12,40 +12,7 @@
 
       "id": "2",
       "username": "com.example.dhcp.jsontest",
-      "Allgetpi": "com.ImALLGETPACKG.exaeaeezt",
-      "Mingetpi": "com.ImMIN.exaeaeezt",
-      "banio": "ca-app23456789 Im banner",
-      "into": "ca-app231211789 Im Interstitial",
-      "thio": "ca-app2111119 Im Thiori",
-      "status": "0",
-      "onpckg": "com.sel.mu_den.hellowordpro"
-    },
-    {
-      // Example Syntaxe 
-      "id": "3",
-      "username": "com.JawharaElsa.tipsheadphone.gyhfrfffs",
-      "banio": "",
-      "into": "",
-      "thio": "",
-      "status": "0",
-      "onpckg": "testtl.testn.testro"
-    },
-    {
-      // Example Syntaxe
-      "id": "4",
-      "username": "com.JawharaElsa.tipsheadphone.gyhfrfffs",
-      "banio": "",
-      "into": "",
-      "thio": "",
-      "status": "0",
-      "onpckg": null
-    },
-    {
-      // (testapp)"onpckg": "com.sel.mu_den.hellowordpro"
-
-      "id": "5",
-      "username": "com.example.dhcp.hello11",
-      "jumppckgGH": "com.jupmexample.jmpdhcp.hello11",
+      "jumppckgGH": "com.jupmexample.jmpdhcp.jsontest",
       "publGH": "pub-39402560example99942544",
       "banio": "ca-app-pub-39402example",
       "into": "ca-app-pub-39402560999example",
