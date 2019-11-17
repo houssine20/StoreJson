@@ -19,20 +19,6 @@
       "thio": "hola thio",
       "statu_Rndm_Adr_m_iod": "1",
       "status": "0",
-      "onpckg": "com.testoj65rfd.testoUzyhglk1z"
-    },
-    {
-      // (testapp)"onpckg": "com.sel.mu_den.hellowordpro"
-
-      "id": "3",
-      "username": "com.example.dhcp.jsontest.sqlite",      
-      "jumppckgGH": "com.jupmexample.jmpdhcp.jsontest",
-      "publGH": "pub-39402560example99942544",
-      "banio": "ca-app-pub-39402example",
-      "into": "ca-app-pub-39402560999example",
-      "thio": "hola thio",
-      "statu_Rndm_Adr_m_iod": "1",
-      "status": "0",
       "onpckg": "com.testoj65rfd.testoUzyhglk1z",
       "Addoinas": [
               {
@@ -52,7 +38,7 @@
               "thio": "hola2_thio"
               }
                 ]
-    },
+    },    
     {
       // Test 1.apk
       //ban ca-app-pub-3940256099942544/6300978111
