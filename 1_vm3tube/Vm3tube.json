@@ -19,25 +19,7 @@
       "thio": "hola thio",
       "statu_Rndm_Adr_m_iod": "1",
       "status": "0",
-      "onpckg": "com.testoj65rfd.testoUzyhglk1z",
-      "Addoinas": [
-              {
-              "id": "1",
-              "jumppckgGH": "com1.EFydhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
-              "publGH": "pub1_loha",
-              "banio": "hola1_banio",
-              "into": "hola1_inters",
-              "thio": "hola1_thio"
-              },
-              {
-              "id": "2",
-              "jumppckgGH": "com2.EFydhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
-              "publGH": "pub2_loha",
-              "banio": "hola2_banio",
-              "into": "hola2_inters",
-              "thio": "hola2_thio"
-              }
-                ]
+      "onpckg": "com.testoj65rfd.testoUzyhglk1z"
     },    
     {
       // Test 1.apk
