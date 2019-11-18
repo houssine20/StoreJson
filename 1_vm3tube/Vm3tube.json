@@ -19,8 +19,9 @@
       "thio": "hola thio",
       "statu_Rndm_Adr_m_iod": "1",
       "status": "0",
-      "onpckg": "com.testoj65rfd.testoUzyhglk1z",
-      "Addoinas": [
+      "onpckg": "com.testoj65rfd.testoUzyhglk1z"
+    },
+    "Addoinas": [
               {
               "idd": "1",
               "jumppckgGH": "com1.EFydhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
@@ -37,8 +38,7 @@
               "into": "hola2_inters",
               "thio": "hola2_thio"
               }
-                ]
-    },    
+                ],
     {
       // Test 1.apk
       //ban ca-app-pub-3940256099942544/6300978111
