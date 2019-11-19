@@ -23,7 +23,7 @@
       "Addoinas": [
                 {
                 "idd": "1",
-                "jumppckgGH": "com4.EFydhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
+                "jumppckgGH": "com1.EFydhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
                 "publGH": "pub4_loha",
                 "banio": "hola4_banio",
                 "into": "hola4_inters",
@@ -31,7 +31,23 @@
                 },
                 {
                 "idd": "2",
-                "jumppckgGH": "com1.EFydhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
+                "jumppckgGH": "com2.EFydhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
+                "publGH": "pub1_loha",
+                "banio": "hola1_banio",
+                "into": "hola1_inters",
+                "thio": "hola1_thio"
+                },
+                {
+                "idd": "3",
+                "jumppckgGH": "com3.EFydhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
+                "publGH": "pub1_loha",
+                "banio": "hola1_banio",
+                "into": "hola1_inters",
+                "thio": "hola1_thio"
+                },
+                {
+                "idd": "4",
+                "jumppckgGH": "com44.EFydhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
                 "publGH": "pub1_loha",
                 "banio": "hola1_banio",
                 "into": "hola1_inters",
