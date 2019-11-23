@@ -12,14 +12,15 @@
 
       "id": "2",
       "username": "com.example.dhcp.jsontest",
-      "jumppckgGH": "com.jupmexample.jmpdhcp.jsontest",
-      "publGH": "pub-39402560example99942544",
-      "banio": "ca-app-pub-39402example",
-      "into": "ca-app-pub-39402560999example",
-      "thio": "hola thio",
+      //"jumppckgGH": "com.jupmexample.jmpdhcp.jsontest", //old version
+      //"publGH": "pub-39402560example99942544", //old version
+      //"banio": "ca-app-pub-39402example", //old version
+      //"into": "ca-app-pub-39402560999example", //old version
+      //"thio": "hola thio", //old version
       "statu_Rndm_Adr_m_iod": "1",
       "status": "0",
       "onpckg": "com.testoj65rfd.testoUzyhglk1z",
+      //Sqlite
       "Addoinas": [
                 {
                 "idd": "1",
