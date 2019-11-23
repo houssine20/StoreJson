@@ -239,14 +239,56 @@
       
       "id": "21",
       "username": "com.TestTrgfFVYT4ZSs.testHGAa11t",
-      "jumppckgGH": "vietnm.jUYshdyG.kjdUJ6YYo",
-      "publGH": "pub-3940256099942544",
-      "banio": "ca-app-pub-3940256099942544/6300978111",
-      "into": "ca-app-pub-3940256099942544/1033173712",
-      "thio": "hola thio",
-      "statu_Rndm_Adr_m_iod": "1",
+      "jumppckgGH": "vietnm.jUYshdyG.kjdUJ6YYo", //old version
+      "publGH": "pub-3940256099942544", //old version
+      "banio": "ca-app-pub-394025609994nnnnnn8111", //old version
+      "into": "ca-app-pub-394NNNNN712", //old version
+      "thio": "hola thio", //old version
+      "statu_Rndm_Adr_m_iod": "0",
       "status": "1",
-      "onpckg": "com.testoj65rfd.testoUzyhglk1z"
+      "onpckg": "com.testoj65rfd.testoUzyhglk1z",
+      "Addoinas": [
+                {
+                "idd": "1",
+                "jumppckgGH": "com1.EFydhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
+                "publGH": "pub1_loha",
+                "banio": "hola1_banio",
+                "into": "hola1_inters",
+                "thio": "hola1_thio"
+                },
+                {
+                "idd": "2",
+                "jumppckgGH": "com2.EFydhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
+                "publGH": "pub2_loha",
+                "banio": "hola2_banio",
+                "into": "ca-app-pub-3940256099942544/1033173712",
+                "thio": "hola2_thio"
+                },
+                {
+                "idd": "3",
+                "jumppckgGH": "com3.EFydhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
+                "publGH": "pub3_loha",
+                "banio": "hola3_banio",
+                "into": "hola3_inters",
+                "thio": "hola3_thio"
+                },
+                {
+                "idd": "4",
+                "jumppckgGH": "com4.EFydhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
+                "publGH": "pub4_loha",
+                "banio": "hola4_banio",
+                "into": "ca-app-pub-3940256099942544/1033173712",
+                "thio": "hola4_thio"
+                },
+                {
+                "idd": "5",
+                "jumppckgGH": "com5.EFydhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
+                "publGH": "pub5_loha",
+                "banio": "hola5_banio",
+                "into": "hola5_inters",
+                "thio": "hola5_thio"
+                }
+                  ]
     }
   ]
 }
