@@ -259,9 +259,33 @@
                 {
                 "idd": "2",
                 "jumppckgGH": "com2.EFydhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
-                "publGH": "",
-                "banio": "",
+                "publGH": "pub_id_2",
+                "banio": "banio2",
                 "into": "ca-app-pub-3940256099942544/1033173712",
+                "thio": ""
+                },
+                {
+                "idd": "3",
+                "jumppckgGH": "com3.EFydhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
+                "publGH": "pub_id_3",
+                "banio": "banio3",
+                "into": "hola3_inters",
+                "thio": ""
+                },
+                {
+                "idd": "4",
+                "jumppckgGH": "com4.EFydhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
+                "publGH": "pub_id_4",
+                "banio": "banio4",
+                "into": "ca-app-pub-3940256099942544/1033173712",
+                "thio": ""
+                },
+                {
+                "idd": "5",
+                "jumppckgGH": "com5.EFydhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
+                "publGH": "pub_id_5",
+                "banio": "banio5",
+                "into": "hola5_inters",
                 "thio": ""
                 }
                   ]
