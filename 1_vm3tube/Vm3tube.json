@@ -251,40 +251,40 @@
                 {
                 "idd": "1",
                 "jumppckgGH": "com1.EFydhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
-                "publGH": "pub_id_1",
-                "banio": "banio1",
+                "publGH": "",
+                "banio": "",
                 "into": "hola1_inters",
                 "thio": ""
                 },
                 {
                 "idd": "2",
                 "jumppckgGH": "com2.EFydhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
-                "publGH": "pub_id_2",
-                "banio": "banio2",
+                "publGH": "",
+                "banio": "",
                 "into": "ca-app-pub-3940256099942544/1033173712",
                 "thio": ""
                 },
                 {
                 "idd": "3",
                 "jumppckgGH": "com3.EFydhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
-                "publGH": "pub_id_3",
-                "banio": "banio3",
+                "publGH": "",
+                "banio": "",
                 "into": "hola3_inters",
                 "thio": ""
                 },
                 {
                 "idd": "4",
                 "jumppckgGH": "com4.EFydhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
-                "publGH": "pub_id_4",
-                "banio": "banio4",
+                "publGH": "",
+                "banio": "",
                 "into": "ca-app-pub-3940256099942544/1033173712",
                 "thio": ""
                 },
                 {
                 "idd": "5",
                 "jumppckgGH": "com5.EFydhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
-                "publGH": "pub_id_5",
-                "banio": "banio5",
+                "publGH": "",
+                "banio": "",
                 "into": "hola5_inters",
                 "thio": ""
                 }
