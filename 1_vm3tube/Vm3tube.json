@@ -143,20 +143,38 @@
       //old com.toKir27TFCVF78g.tooKO96IJloze 
       //old com.music.player.mp3player.white exist On ggl
       //old com.hundred.qibla exist on ggl
-      "jumppckgGH": "com.ylayounG7frvd.anr13unoid.yUlayounim765yh",
+      "jumppckgGH": "com.ylayounG7frvd.anr13unoid.yUlayounim765yh",  //old version
       //new pub-5822111567432084
-      "publGH": "pub-9000404075186371",
+      "publGH": "pub-9000404075186371",  //old version
       //old ban ca-app-pub-1792009620133696/6113591171
       //new ban ca-app-pub-5822111567432084/4205716660
-      "banio": "layounbanio",
+      "banio": "layounbanio",  //old version
       //old inter ca-app-pub-1792009620133696/2797162694
       //new inter ca-app-pub-5822111567432084/4918773356 
-      "into": "ca-app-pub-9000404075186371/6931965003",
+      "into": "ca-app-pub-9000404075186371/6931965003",  //old version
       //old thio ca-app-pub-1792009620133696/5040182657
-      "thio": "holaazlayounthio",
+      "thio": "holaazlayounthio",  //old version
       "statu_Rndm_Adr_m_iod": "0",
       "status": "1",
-      "onpckg": null
+      "onpckg": null,
+      "Addoinas": [
+                {
+                "idd": "1",
+                "jumppckgGH": "com1.EFydjU4hdyGYH8Ysh.ZZkjdYYoUJ.okfhji",
+                "publGH": "",
+                "banio": "",
+                "into": "",
+                "thio": ""
+                },
+                {
+                "idd": "2",
+                "jumppckgGH": "com2.EFydGjU4YhdyH8Ysh.ZZYjdY23okUJ.ofhjki",
+                "publGH": "",
+                "banio": "",
+                "into": "",
+                "thio": ""
+                }
+                  ]
     },
     {
                        
