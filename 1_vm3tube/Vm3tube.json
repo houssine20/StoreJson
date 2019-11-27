@@ -155,8 +155,8 @@
       //old thio ca-app-pub-1792009620133696/5040182657
       "thio": "holaaztrikithio",  //old version
       "statu_Rndm_Adr_m_iod": "0",
-      "status": "1",
-      "onpckg": null,
+      "status": "0",
+      "onpckg": "com.y65rfmjfjdTh8tg7f.Uzgk27zlyh",
       "Addoinas": [
                 {
                 "idd": "1",
@@ -202,7 +202,7 @@
       "banio": "hola_banio",
       "into": "hola_inters",
       "thio": "hola thio",
-      "statu_Rndm_Adr_m_iod": "1",
+      "statu_Rndm_Adr_m_iod": "0",
       "status": "1",
       "onpckg": null
     },
