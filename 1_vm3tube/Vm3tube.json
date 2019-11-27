@@ -160,18 +160,10 @@
       "Addoinas": [
                 {
                 "idd": "1",
-                "jumppckgGH": "",
+                "jumppckgGH": "com.bitsmedia.android.muslimpro",
                 "publGH": "",
                 "banio": "",
-                "into": "",
-                "thio": ""
-                },
-                {
-                "idd": "2",
-                "jumppckgGH": "",
-                "publGH": "",
-                "banio": "",
-                "into": "",
+                "into": "ca-app-pub-9000404075186371/6931965003",
                 "thio": ""
                 }
                   ]
@@ -188,7 +180,17 @@
       "thio": "hola thio",
       "statu_Rndm_Adr_m_iod": "0",
       "status": "1",
-      "onpckg": null
+      "onpckg": null,
+      "Addoinas": [
+                {
+                "idd": "1",
+                "jumppckgGH": "com.bitsmedia.android.muslimpro",
+                "publGH": "",
+                "banio": "",
+                "into": "ca-app-pub-9000404075186371/6931965003",
+                "thio": ""
+                }
+                  ]
     },
     {
                        
