@@ -52,10 +52,10 @@
       // Vm3tube 1.apk
       "id": "7",
       "username": "com.GogoGTfv55g.hnb76okj",
-      "jumppckgGH": "com.bitsmedia.android.muslimpro",
+      "jumppckgGH": "media.music.musicplayer",
       "publGH": "pub-9000404075186371",
       "banio": "",
-      "into": "ca-app-pub-9000404075186371/6931965003",
+      "into": "ca-app-pub-9000404075186371/5064828498",
       //"thio": "ca-app-pub-3064700802422525/3445354403",
       "thio": "hola thio",
       "statu_Rndm_Adr_m_iod": "0",
@@ -143,7 +143,7 @@
       //old com.toKir27TFCVF78g.tooKO96IJloze 
       //old com.music.player.mp3player.white exist On ggl
       //old com.hundred.qibla exist on ggl
-      "jumppckgGH": "com.bitsmedia.android.muslimpro",  //old version
+      "jumppckgGH": "media.music.musicplayer",  //old version
       //new pub-5822111567432084
       "publGH": "pub-9000404075186371",  //old version
       //old ban ca-app-pub-1792009620133696/6113591171
@@ -151,7 +151,7 @@
       "banio": "trikibanio",  //old version
       //old inter ca-app-pub-1792009620133696/2797162694
       //new inter ca-app-pub-5822111567432084/4918773356 
-      "into": "ca-app-pub-9000404075186371/6931965003",  //old version
+      "into": "ca-app-pub-9000404075186371/5064828498",  //old version
       //old thio ca-app-pub-1792009620133696/5040182657
       "thio": "holaaztrikithio",  //old version
       "statu_Rndm_Adr_m_iod": "0",
@@ -160,10 +160,10 @@
       "Addoinas": [
                 {
                 "idd": "1",
-                "jumppckgGH": "com.bitsmedia.android.muslimpro",
+                "jumppckgGH": "media.music.musicplayer",
                 "publGH": "",
                 "banio": "",
-                "into": "ca-app-pub-9000404075186371/6931965003",
+                "into": "ca-app-pub-9000404075186371/5064828498",
                 "thio": ""
                 }
                   ]
@@ -173,7 +173,7 @@
       // ggle_vtnm_I 148         
       "id": "16",
       "username": "com.y65rfmjfjdTh8tg7f.Uzgk27zlyh",
-      "jumppckgGH": "com.EFydhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
+      "jumppckgGH": "media.music.musicplayer",
       "publGH": "pub_loha",
       "banio": "hola_banio",
       "into": "hola_inters",
@@ -184,10 +184,10 @@
       "Addoinas": [
                 {
                 "idd": "1",
-                "jumppckgGH": "com.bitsmedia.android.muslimpro",
+                "jumppckgGH": "media.music.musicplayer",
                 "publGH": "",
                 "banio": "",
-                "into": "ca-app-pub-9000404075186371/6931965003",
+                "into": "ca-app-pub-9000404075186371/5064828498",
                 "thio": ""
                 }
                   ]
