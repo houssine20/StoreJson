@@ -70,8 +70,8 @@
       "banio": "ca-app-pub-2277676619239809/2318624893",
       "into": "ca-app-pub-2277676619239809/1333363201",
       "thio": "hola",
-      "status": "1",
-      "onpckg": null
+      "status": "0",
+      "onpckg": "com.y65rfmjfjdTh8tg7f.Uzgk27zlyh"
     },
     {
       // ggle 144 X
@@ -81,7 +81,7 @@
       "into": "ca-app-pub-2277676619239809/1277005969",
       "thio": "ca-app-pub-2277676619239809/5760118409",
       "status": "0",
-      "onpckg": "com.yOljfj65rfd.Uzyhglk1z"
+      "onpckg": "com.y65rfmjfjdTh8tg7f.Uzgk27zlyh"
     },
     {
       // ggle 145_1 X
@@ -91,7 +91,7 @@
       "into": "ca-app-pub-2277676619239809/4278810180",
       "thio": "hola",
       "status": "0",
-      "onpckg": "com.yOljfj65rfd.Uzyhglk1z"
+      "onpckg": "com.y65rfmjfjdTh8tg7f.Uzgk27zlyh"
     },
     {
       // ggle 145_2 X
@@ -101,7 +101,7 @@
       "into": "ca-app-pub-2277676619239809/9950062970",
       "thio": "hola",
       "status": "0",
-      "onpckg": "com.yOljfj65rfd.Uzyhglk1z"
+      "onpckg": "com.y65rfmjfjdTh8tg7f.Uzgk27zlyh"
     },
     {
       // ggle 146 X
@@ -111,7 +111,7 @@
       "into": "ca-app-pub-2277676619239809/9057328294",
       "thio": "hola",
       "status": "0",
-      "onpckg": "com.yOljfj65rfd.Uzyhglk1z"
+      "onpckg": "com.y65rfmjfjdTh8tg7f.Uzgk27zlyh"
     },
     {
       // test old App
@@ -155,7 +155,7 @@
       //old thio ca-app-pub-1792009620133696/5040182657
       "thio": "",  //old version
       "statu_Rndm_Adr_m_iod": "0",
-      "status": "0",
+      "status": "1",
       "onpckg": "com.y65rfmjfjdTh8tg7f.Uzgk27zlyh",
       "Addoinas": [
                 {
