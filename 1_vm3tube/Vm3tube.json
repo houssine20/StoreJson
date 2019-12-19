@@ -19,7 +19,7 @@
       "thio": "hola thio", //old version
       "statu_Rndm_Adr_m_iod": "1",
       "status": "0",
-      "onpckg1pk": "Yes",
+      "onpckg1pk": Yes,
       "onpckg": null,
       //Sqlite
       "Addoinas": [
