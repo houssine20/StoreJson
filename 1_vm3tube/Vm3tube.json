@@ -12,16 +12,16 @@
 
       "id": "2",
       "username": "com.example.dhcp.jsontest",
+      "CodVers": "3.5",
       "jumppckgGH": "com.jupmexample.jmpdhcp.jsontest", //old version
       "publGH": "pub-39402560example99942544", //old version
       "banio": "ca-app-pub-39402example", //old version
       "into": "ca-app-pub-39402560999example", //old version
       "thio": "hola thio", //old version
-      "statu_Rndm_Adr_m_iod": "1",
-      "CotrrAd":["es","ma"],
-      "status": "0",
-      "onpckg1pk": "Yes",
-      "onpckg": "fgfyfyfh.hhdhdhd",
+      "statu_Rndm_Adr_m_iod": "1",       
+      "CotrrCodFl":["Dz","ma"],
+      "TpShwAd": "fl",
+      "CotrrAd":["es","ma"],      
       //Sqlite
       "Addoinas": [
                 {
@@ -32,7 +32,11 @@
                 "into": "hola1_inters",
                 "thio": "hola1_thio"
                 }
-                  ]
+                  ],
+      //if you if
+      "status": "0",
+      "onpckg1pk": "Yes",
+      "onpckg": "fgfyfyfh.hhdhdhd"
     },
     {
       // Test 1.apk
