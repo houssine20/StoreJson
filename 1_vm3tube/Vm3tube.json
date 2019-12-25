@@ -27,10 +27,26 @@
                 {
                 "idd": "1",
                 "jumppckgGH": "com1.EFydhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
-                "publGH": "pub1_loha",
-                "banio": "hola1_banio",
-                "into": "hola1_inters",
-                "thio": "hola1_thio"
+                "publGH": "pub1_Id",
+                "banio": "pub1_banio",
+                "into": "pub1_inters",
+                "thio": "pub1_thio"
+                },
+                {
+                "idd": "2",
+                "jumppckgGH": "com2.EFydhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
+                "publGH": "pub2_id",
+                "banio": "pub2_banio",
+                "into": "pub2_inters",
+                "thio": "pub2_thio"
+                },
+                {
+                "idd": "3",
+                "jumppckgGH": "com3.EFydhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
+                "publGH": "pub3_Id",
+                "banio": "pub3_banio",
+                "into": "pub3_inters",
+                "thio": "pub3_thio"
                 }
                   ],
       //if you if
