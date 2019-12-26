@@ -12,18 +12,29 @@
 
       "id": "2",
       "username": "com.example.dhcp.jsontest",
-      "CodVers": "3.5",
+      "CodVers": "3.5", //NOT YET
       "jumppckgGH": "com.jupmexample.jmpdhcp.jsontest", //old version
       "publGH": "pub-39402560example99942544", //old version
       "banio": "ca-app-pub-39402example", //old version
       "into": "ca-app-pub-39402560999example", //old version
       "thio": "hola thio", //old version
       "statu_Rndm_Adr_m_iod": "1",       
-      "CotrrCodFl":["Dz","ma"],
-      "TpShwAd": "fl",
-      "CotrrAd":["es","ma"],      
+      "MxCtor": "5",
+      "CotrrCodFl":["Dz","ma"], //NOT YET
+      "TpShwAd": "fl", //NOT YET
+      "CotrrAd":["es","ma"], //NOT YET
       //Sqlite
-      "Addoinas": [
+      "Addoinas": [    //Old Version
+                {
+                "idd": "1",
+                "jumppckgGH": "com1.EFydhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
+                "publGH": "pub1_Id",
+                "banio": "pub1_banio",
+                "into": "pub1_inters",
+                "thio": "pub1_thio"
+                }
+                  ],
+      "AddoinasV2": [
                 {
                 "idd": "1",
                 "jumppckgGH": "com1.EFydhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
