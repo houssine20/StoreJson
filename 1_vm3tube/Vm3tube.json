@@ -42,11 +42,19 @@
                 "banio": "pub1_banio",
                 "into": "pub1_inters",
                 "thio": "pub1_thio"
+                },
+                {
+                "idd": "2",
+                "jumppckgGH": "com2.EFydhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
+                "publGH": "pub2_Id",
+                "banio": "pub2_banio",
+                "into": "pub2_inters",
+                "thio": "pub2_thio"
                 }
                   ],
       //if you if
       "status": "0",
-      "onpckg1pk": "Yes",
+      "onpckg1pk": "No", // Yes/No
       "onpckg": "fgfyfyfh.hhdhdhd"
     },
     {
