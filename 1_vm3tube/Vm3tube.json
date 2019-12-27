@@ -290,8 +290,7 @@
       "into": "ca-app-pub-394NNNNN712", //old version
       "thio": "hola thio", //old version
       "statu_Rndm_Adr_m_iod": "0",
-      "status": "1",
-      "onpckg": "com.testoj65rfd.testoUzyhglk1z",
+      "MxCtor": "5",
       "Addoinas": [
                 {
                 "idd": "1",
@@ -301,7 +300,29 @@
                 "into": "ca-app-pub-4160571698559387/2188805956",
                 "thio": ""
                 }
-                  ]
+                  ],
+      "AddoinasV2": [
+                {
+                "idd": "1",
+                "jumppckgGH": "com1.EFydhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
+                "publGH": "pub1_Id",
+                "banio": "pub1_banio",
+                "into": "pub1_inters",
+                "thio": "pub1_thio"
+                },
+                {
+                "idd": "2",
+                "jumppckgGH": "com2.EFydhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
+                "publGH": "pub2_Id",
+                "banio": "pub2_banio",
+                "into": "pub2_inters",
+                "thio": "pub2_thio"
+                }
+                  ],
+      //if you if
+      "status": "0",
+      "onpckg1pk": "No", // Yes/No
+      "onpckg": "fgfyfyfh.hhdhdhd"
     }
   ]
 }
