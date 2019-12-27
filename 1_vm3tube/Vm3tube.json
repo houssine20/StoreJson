@@ -284,21 +284,26 @@
       
       "id": "21",
       "username": "com.TestTrgfFVYT4ZSs.testHGAa11t",
-      "jumppckgGH": "vietnm.jUYshdyG.kjdUJ6YYo", //old version
-      "publGH": "pub-3940256099942544", //old version
-      "banio": "ca-app-pub-394025609994nnnnnn8111", //old version
-      "into": "ca-app-pub-394NNNNN712", //old version
+      //NOT YET "CodVers": "3.5", 
+      "jumppckgGH": "com.jupmexample.jmpdhcp.jsontest", //old version
+      "publGH": "pub-39402560example99942544", //old version
+      "banio": "ca-app-pub-39402example", //old version
+      "into": "ca-app-pub-39402560999example", //old version
       "thio": "hola thio", //old version
-      "statu_Rndm_Adr_m_iod": "0",
+      "statu_Rndm_Adr_m_iod": "1",       
       "MxCtor": "5",
-      "Addoinas": [
+      //NOT YET "CotrrCodFl":["Dz","ma"], 
+      //NOT YET "TpShwAd": "fl", 
+      //NOT YET "CotrrAd":["es","ma"], 
+      //Sqlite
+      "Addoinas": [    //Old Version
                 {
                 "idd": "1",
                 "jumppckgGH": "com1.EFydhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
-                "publGH": "",
-                "banio": "ca-app-pub-3940256099942544/6300978111",
-                "into": "ca-app-pub-4160571698559387/2188805956",
-                "thio": ""
+                "publGH": "pub1_Id",
+                "banio": "pub1_banio",
+                "into": "pub1_inters",
+                "thio": "pub1_thio"
                 }
                   ],
       "AddoinasV2": [
