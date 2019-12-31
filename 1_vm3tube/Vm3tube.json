@@ -81,11 +81,22 @@
       "publGH": "",
       "banio": "",
       "into": "ca-app-pub-2791552111708375/3425247068",
-      //"thio": "ca-app-pub-3064700802422525/3445354403",
-      "thio": "hola thio",
-      "statu_Rndm_Adr_m_iod": "0",
-      //because vers is: 2
-      "status": "0",
+      "thio": "",
+      "statu_Rndm_Adr_m_iod": "0", 
+      "MxCtor": "1", 
+      "AddoinasV2": [
+                {
+                "idd": "1",
+                "jumppckgGH": "com.huy6fdrc.iuHYG6nj.HYGFU2JQY7ZS",
+                "publGH": "",
+                "banio": "",
+                "into": "ca-app-pub-2791552111708375/3425247068",
+                "thio": ""
+                }
+                  ],
+      //if you if
+      "status": "0", //because vers is: 2
+      "onpckg1pk": "Yes", // Yes/No
       "onpckg": null
     },
     {
