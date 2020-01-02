@@ -96,7 +96,7 @@
                   ],
       //if you if
       "status": "0", //because vers is: 2
-      "onpckg1pk": "Yes", // Yes/No
+      "onpckg1pk": "yes", // Yes/No
       "onpckg": null
     },
     {
