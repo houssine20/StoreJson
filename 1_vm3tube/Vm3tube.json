@@ -334,8 +334,8 @@
                 }
                   ],
       //if you if
-      "status": "1",
-      "onpckg1pk": "No", // Yes/No
+      "status": "0",
+      "onpckg1pk": "Yes", // Yes/No
       "onpckg": "com.beautezssd23.ef5y"
     }
   ]
