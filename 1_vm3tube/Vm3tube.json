@@ -78,10 +78,10 @@
       "id": "7",
       "username": "com.GogoGTfv55g.hnb76okj",
       "jumppckgGH": "com.huy6fdrc.iuHYG6nj.HYGFU2JQY7ZS",
-      "publGH": "",
-      "banio": "",
-      "into": "ca-app-pub-2791552111708375/3425247068",
-      "thio": "",
+      "publGH": "",  //Old version
+      "banio": "",  //Old version
+      "into": "ca-app-pub-2791552111708375/3425247068",  //Old version
+      "thio": "",  //Old version
       "statu_Rndm_Adr_m_iod": "0", 
       "MxCtor": "1", 
       "AddoinasV2": [
@@ -97,7 +97,7 @@
       //if you if
       "status": "0", //because vers is: 2
       "onpckg1pk": "Yes", // Yes/No
-      "onpckg": "com.GogoGTfv55g.hnb76okj"
+      "onpckg": null
     },
     {
       // ggle 141 OLD CODE
