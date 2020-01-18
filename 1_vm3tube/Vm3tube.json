@@ -227,12 +227,76 @@
       "statu_Rndm_Adr_m_iod": "1", 
       "MxCtor": "4",    
       "AddoinasV2": [
-                {
+                {//nbr2
                 "idd": "1",
                 "jumppckgGH": "uDEDmob2rf6jsGH.juQZS4fy.jdSDFR5DH.hdDES37YH",
                 "publGH": "",
                 "banio": "",
                 "into": "ca-app-pub-2544290849483745/6318467317",
+                "thio": ""
+                },
+                {//nbr4
+                "idd": "2",
+                "jumppckgGH": "com.yhgt56fdcs.ujhs76HGFDbbvf.kisjyfCFV.fdfdf",
+                "publGH": "",
+                "banio": "",
+                "into": "ca-app-pub-3894950446152578/4037904436",
+                "thio": ""
+                },
+                {//nbr6
+                "idd": "3",
+                "jumppckgGH": "com.gt6gdsgJHGed.YYHG7j",
+                "publGH": "",
+                "banio": "",
+                "into": "ca-app-pub-2748749413469720/8770097187",
+                "thio": ""
+                },
+                {//nbr8
+                "idd": "4",
+                "jumppckgGH": "com.hGTU2hnn6tf.gfvc54.yFgg",
+                "publGH": "",
+                "banio": "",
+                "into": "ca-app-pub-5256889184890078/9947197464",
+                "thio": ""
+                },
+                {//nbr9
+                "idd": "5",
+                "jumppckgGH": "com.gZHggv6bg.U4rfd.hbs",
+                "publGH": "",
+                "banio": "",
+                "into": "ca-app-pub-4810415325614437/5345391879",
+                "thio": ""
+                },
+                {//nbr10
+                "idd": "6",
+                "jumppckgGH": "com.ftg5ffs6T.frd.dd8kkdd",
+                "publGH": "",
+                "banio": "",
+                "into": "ca-app-pub-7271169506216491/8266003029",
+                "thio": ""
+                },
+                {//nbr11
+                "idd": "7",
+                "jumppckgGH": "com.tggfy5ju8gtES.hnbvvfDEc.Jghb",
+                "publGH": "",
+                "banio": "",
+                "into": "ca-app-pub-4051725403473439/6669602907",
+                "thio": ""
+                },
+                {//nbr12
+                "idd": "8",
+                "jumppckgGH": "com.ghyst56GTF.qzRDzS12RFshxq.dgftf",
+                "publGH": "",
+                "banio": "",
+                "into": "ca-app-pub-6082631498685783/4257996328",
+                "thio": ""
+                },
+                {//nbr13
+                "idd": "9",
+                "jumppckgGH": "com.frtgfDC5H.bg7hgRRFl15f.gtf2s",
+                "publGH": "",
+                "banio": "",
+                "into": "ca-app-pub-6994010433460423/6486388621",
                 "thio": ""
                 }
                   ],
