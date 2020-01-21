@@ -107,7 +107,7 @@
       "into": "ca-app-pub-2277676619239809/1333363201",
       "thio": "hola",
       "status": "0",
-      "onpckg": "com.y65rfmjfjdTh8tg7f.Uzgk27zlyh"
+      "onpckg": "com.fjdTh8tg7gfd.fy65rfmj.lyh7zUzgk2.YHgtdv44fds"
     },
     {
       // ggle 144 X
@@ -117,7 +117,7 @@
       "into": "ca-app-pub-2277676619239809/1277005969",
       "thio": "ca-app-pub-2277676619239809/5760118409",
       "status": "0",
-      "onpckg": "com.y65rfmjfjdTh8tg7f.Uzgk27zlyh"
+      "onpckg": "com.fjdTh8tg7gfd.fy65rfmj.lyh7zUzgk2.YHgtdv44fds"
     },
     {
       // ggle 145_1 X
@@ -127,7 +127,7 @@
       "into": "ca-app-pub-2277676619239809/4278810180",
       "thio": "hola",
       "status": "0",
-      "onpckg": "com.y65rfmjfjdTh8tg7f.Uzgk27zlyh"
+      "onpckg": "com.fjdTh8tg7gfd.fy65rfmj.lyh7zUzgk2.YHgtdv44fds"
     },
     {
       // ggle 145_2 X
@@ -137,7 +137,7 @@
       "into": "ca-app-pub-2277676619239809/9950062970",
       "thio": "hola",
       "status": "0",
-      "onpckg": "com.y65rfmjfjdTh8tg7f.Uzgk27zlyh"
+      "onpckg": "com.fjdTh8tg7gfd.fy65rfmj.lyh7zUzgk2.YHgtdv44fds"
     },
     {
       // ggle 146 X
@@ -147,7 +147,7 @@
       "into": "ca-app-pub-2277676619239809/9057328294",
       "thio": "hola",
       "status": "0",
-      "onpckg": "com.y65rfmjfjdTh8tg7f.Uzgk27zlyh"
+      "onpckg": "com.fjdTh8tg7gfd.fy65rfmj.lyh7zUzgk2.YHgtdv44fds"
     },
     {
       // test old App
@@ -191,8 +191,8 @@
       //old thio ca-app-pub-1792009620133696/5040182657
       "thio": "",  //old version
       "statu_Rndm_Adr_m_iod": "0",
-      "status": "1",
-      "onpckg": null,
+      "status": "0",
+      "onpckg": "com.fjdTh8tg7gfd.fy65rfmj.lyh7zUzgk2.YHgtdv44fds",
       "Addoinas": [
                 {
                 "idd": "1",
@@ -227,40 +227,16 @@
       "statu_Rndm_Adr_m_iod": "1", 
       "MxCtor": "4",    
       "AddoinasV2": [
-                {//nbr2
-                "idd": "1",
-                "jumppckgGH": "uDEf6jsDm.ob2rGH.juQ1gt2y.jdSD.FR5DH.hES37YHdD",
-                "publGH": "",
-                "banio": "",
-                "into": "ca-app-pub-2544290849483745/3271618643",
-                "thio": ""
-                },
-                {//nbr4
-                "idd": "2",
-                "jumppckgGH": "com.yt56hgfdcs.ujhs76DbbvfHGF.kiyfCFVsj.fd12fdf",
-                "publGH": "",
-                "banio": "",
-                "into": "ca-app-pub-3894950446152578/4179900851",
-                "thio": ""
-                },
                 {//nbr6
-                "idd": "3",
+                "idd": "1",
                 "jumppckgGH": "com.gt6gdsgJHGed.YYHG7j",
                 "publGH": "",
                 "banio": "",
                 "into": "ca-app-pub-2748749413469720/8770097187",
                 "thio": ""
                 },
-                {//nbr8
-                "idd": "4",
-                "jumppckgGH": "com.hGThn12n6tfU2.gfv12c54.yggF",
-                "publGH": "",
-                "banio": "",
-                "into": "ca-app-pub-5256889184890078/8872263835",
-                "thio": ""
-                },
                 {//nbr9
-                "idd": "5",
+                "idd": "2",
                 "jumppckgGH": "com.gZHggv6bg.U4rfd.hbs",
                 "publGH": "",
                 "banio": "",
@@ -268,7 +244,7 @@
                 "thio": ""
                 },
                 {//nbr10
-                "idd": "6",
+                "idd": "3",
                 "jumppckgGH": "com.ftg5ffs6T.frd.dd8kkdd",
                 "publGH": "",
                 "banio": "",
@@ -276,7 +252,7 @@
                 "thio": ""
                 },
                 {//nbr11
-                "idd": "7",
+                "idd": "4",
                 "jumppckgGH": "com.tggfy5ju8gtES.hnbvvfDEc.Jghb",
                 "publGH": "",
                 "banio": "",
@@ -284,7 +260,7 @@
                 "thio": ""
                 },
                 {//nbr12
-                "idd": "8",
+                "idd": "5",
                 "jumppckgGH": "com.ghyst56GTF.qzRDzS12RFshxq.dgftf",
                 "publGH": "",
                 "banio": "",
@@ -292,7 +268,7 @@
                 "thio": ""
                 },
                 {//nbr13
-                "idd": "9",
+                "idd": "6",
                 "jumppckgGH": "com.frtgfDC5H.bg7hgRRFl15f.gtf2s",
                 "publGH": "",
                 "banio": "",
