@@ -225,54 +225,14 @@
                 }
                   ],
       "statu_Rndm_Adr_m_iod": "1", 
-      "MxCtor": "4",    
+      "MxCtor": "2",    
       "AddoinasV2": [
-                {//nbr6
+                {//nbr5
                 "idd": "1",
-                "jumppckgGH": "com.gt6gdsgJHGed.YYHG7j",
+                "jumppckgGH": "com.ftg56XSCLfRfvrDDk.gbThngnhT2nc.TDf3tc",
                 "publGH": "",
                 "banio": "",
-                "into": "ca-app-pub-2748749413469720/8770097187",
-                "thio": ""
-                },
-                {//nbr9
-                "idd": "2",
-                "jumppckgGH": "com.gZHggv6bg.U4rfd.hbs",
-                "publGH": "",
-                "banio": "",
-                "into": "ca-app-pub-4810415325614437/5345391879",
-                "thio": ""
-                },
-                {//nbr10
-                "idd": "3",
-                "jumppckgGH": "com.ftg5ffs6T.frd.dd8kkdd",
-                "publGH": "",
-                "banio": "",
-                "into": "ca-app-pub-7271169506216491/8266003029",
-                "thio": ""
-                },
-                {//nbr11
-                "idd": "4",
-                "jumppckgGH": "com.tggfy5ju8gtES.hnbvvfDEc.Jghb",
-                "publGH": "",
-                "banio": "",
-                "into": "ca-app-pub-4051725403473439/6669602907",
-                "thio": ""
-                },
-                {//nbr12
-                "idd": "5",
-                "jumppckgGH": "com.ghyst56GTF.qzRDzS12RFshxq.dgftf",
-                "publGH": "",
-                "banio": "",
-                "into": "ca-app-pub-6082631498685783/4257996328",
-                "thio": ""
-                },
-                {//nbr13
-                "idd": "6",
-                "jumppckgGH": "com.frtgfDC5H.bg7hgRRFl15f.gtf2s",
-                "publGH": "",
-                "banio": "",
-                "into": "ca-app-pub-6994010433460423/6486388621",
+                "into": "ca-app-pub-7168424040984388/5487552598",
                 "thio": ""
                 }
                   ],
