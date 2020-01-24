@@ -227,12 +227,84 @@
       "statu_Rndm_Adr_m_iod": "1", 
       "MxCtor": "2",    
       "AddoinasV2": [
-                {//nbr5
+                {//nbr14
                 "idd": "1",
-                "jumppckgGH": "com.ftg56XSCLfRfvrDDk.gbThngnhT2nc.TDf3tc",
+                "jumppckgGH": "com.hyd754.gtr2f.UYGSWW",
                 "publGH": "",
                 "banio": "",
-                "into": "ca-app-pub-7168424040984388/5487552598",
+                "into": "ca-app-pub-3629545575477534/5034093193",
+                "thio": ""
+                },
+                {//nbr14
+                "idd": "2",
+                "jumppckgGH": "com.hyd754.gtr2f.UYGSWW",
+                "publGH": "",
+                "banio": "",
+                "into": "ca-app-pub-3629545575477534/2902208709",
+                "thio": ""
+                },
+                {//nbr14
+                "idd": "3",
+                "jumppckgGH": "com.hyd754.gtr2f.UYGSWW",
+                "publGH": "",
+                "banio": "",
+                "into": "ca-app-pub-3629545575477534/9423385024",
+                "thio": ""
+                },
+                {//nbr14
+                "idd": "4",
+                "jumppckgGH": "com.hyd754.gtr2f.UYGSWW",
+                "publGH": "",
+                "banio": "",
+                "into": "ca-app-pub-3629545575477534/1094303012",
+                "thio": ""
+                },
+                {//nbr14
+                "idd": "5",
+                "jumppckgGH": "com.hyd754.gtr2f.UYGSWW",
+                "publGH": "",
+                "banio": "",
+                "into": "ca-app-pub-3629545575477534/9276045368",
+                "thio": ""
+                },
+                {//nbr14
+                "idd": "6",
+                "jumppckgGH": "com.hyd754.gtr2f.UYGSWW",
+                "publGH": "",
+                "banio": "",
+                "into": "ca-app-pub-3629545575477534/7962963698",
+                "thio": ""
+                },
+                {//nbr14
+                "idd": "7",
+                "jumppckgGH": "com.hyd754.gtr2f.UYGSWW",
+                "publGH": "",
+                "banio": "",
+                "into": "ca-app-pub-3629545575477534/5336800358",
+                "thio": ""
+                },
+                {//nbr14
+                "idd": "8",
+                "jumppckgGH": "com.hyd754.gtr2f.UYGSWW",
+                "publGH": "",
+                "banio": "",
+                "into": "ca-app-pub-3629545575477534/5617121514",
+                "thio": ""
+                },
+                {//nbr14
+                "idd": "9",
+                "jumppckgGH": "com.hyd754.gtr2f.UYGSWW",
+                "publGH": "",
+                "banio": "",
+                "into": "ca-app-pub-3629545575477534/8187444534",
+                "thio": ""
+                },
+                {//nbr14
+                "idd": "10",
+                "jumppckgGH": "com.hyd754.gtr2f.UYGSWW",
+                "publGH": "",
+                "banio": "",
+                "into": "ca-app-pub-3629545575477534/2935117850",
                 "thio": ""
                 }
                   ],
