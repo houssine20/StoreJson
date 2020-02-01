@@ -225,54 +225,14 @@
                 }
                   ],
       "statu_Rndm_Adr_m_iod": "0", 
-      "MxCtor": "1",    
+      "MxCtor": "4",    
       "AddoinasV2": [
-                {//nbr2
-                "idd": "1",
-                "jumppckgGH": "uDEDmob2rf6jsGH.juQZS4fy.jdSDFR5DH.hdDES37YH",
-                "publGH": "",
-                "banio": "",
-                "into": "",
-                "thio": ""
-                },
-                {//nbr4
-                "idd": "2",
-                "jumppckgGH": "com.yhgt56fdcs.ujhs76HGFDbbvf.kisjyfCFV.fdfdf",
-                "publGH": "",
-                "banio": "",
-                "into": "",
-                "thio": ""
-                },
                 {//nbr6
-                "idd": "3",
-                "jumppckgGH": "com.gt6gdsgJHGed.YYHG7j",
+                "idd": "1",
+                "jumppckgGH": "com.dgtfbbb3d.tgd7j8j5zzzs",
                 "publGH": "",
                 "banio": "",
-                "into": "",
-                "thio": ""
-                },
-                {//nbr11
-                "idd": "4",
-                "jumppckgGH": "com.tggfy5ju8gtES.hnbvvfDEc.Jghb",
-                "publGH": "",
-                "banio": "",
-                "into": "",
-                "thio": ""
-                },
-                {//nbr14
-                "idd": "5",
-                "jumppckgGH": "com.hyd754.gtr2f.UYGSWW",
-                "publGH": "",
-                "banio": "",
-                "into": "",
-                "thio": ""
-                },
-                {//nbr15
-                "idd": "6",
-                "jumppckgGH": "com.hu6fdrcZy.iuG6nj3HY.HYGY7Z4S",
-                "publGH": "",
-                "banio": "",
-                "into": "",
+                "into": "ca-app-pub-2748749413469720/9658300692",
                 "thio": ""
                 }
                   ],
