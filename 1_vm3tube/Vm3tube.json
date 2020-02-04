@@ -321,7 +321,7 @@
       "username": "com.TestTrgfFVYT4ZSs.testHGAa11t",
       //NOT YET "CodVers": "3.5", 
       "statu_Rndm_Adr_m_iod": "0",       
-      "MxCtor": "4",
+      "MxCtor": "3",
       //NOT YET "CotrrCodFl":["Dz","ma"], 
       //NOT YET "TpShwAd": "fl", 
       //NOT YET "CotrrAd":["es","ma"], 
@@ -331,13 +331,13 @@
                 "idd": "1",
                 "jumppckgGH": "com1.EFyV2dhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
                 "publGH": "pub1_Id",
-                "banio": "",
+                "banio": "ca-app-pub-3940256099942544/6300978111",
                 "into": "ca-app-pub-3940256099942544/1033173712",
                 "thio": "thio1"
                 }
                   ],
       //if you if
-      "status": "1",
+      "status": "0",
       "onpckg1pk": "Yes", // Yes/No
       "onpckg": "com.beautezssd23.ef5y"
     }
