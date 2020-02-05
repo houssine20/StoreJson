@@ -320,7 +320,7 @@
       "id": "21",
       "username": "com.TestTrgfFVYT4ZSs.testHGAa11t",
       //NOT YET "CodVers": "3.5", 
-      "statu_Rndm_Adr_m_iod": "0",       
+      "statu_Rndm_Adr_m_iod": "1",       
       "MxCtor": "3",
       //NOT YET "CotrrCodFl":["Dz","ma"], 
       //NOT YET "TpShwAd": "fl", 
@@ -337,7 +337,7 @@
                 }
                   ],
       //if you if
-      "status": "0",
+      "status": "1",
       "onpckg1pk": "Yes", // Yes/No
       "onpckg": "com.beautezssd23.ef5y"
     }
