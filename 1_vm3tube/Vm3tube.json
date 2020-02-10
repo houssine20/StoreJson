@@ -53,9 +53,9 @@
                 }
                   ],
       //if you if
-      "status": "1",
+      "status": "0",
       "onpckg1pk": "Yes", // Yes/No
-      "onpckg": null
+      "onpckg": "fgfyfyfh.hhdhdhd"
     },
     {
       // Test 1.apk
@@ -83,7 +83,7 @@
       "into": "ca-app-pub-5256889184890078/8694216154",  //Old version
       "thio": "",  //Old version
       "statu_Rndm_Adr_m_iod": "0", 
-      "MxCtor": "4", 
+      "MxCtor": "1", 
       "AddoinasV2": [
                 {
                 "idd": "1",
@@ -95,7 +95,7 @@
                 }
                   ],
       //if you if
-      "status": "0", //because vers is: 2
+      "status": "1", //because vers is: 2
       "onpckg1pk": "Yes", // Yes/No
       "onpckg": null
     },
