@@ -107,7 +107,7 @@
       "into": "ca-app-pub-2277676619239809/1333363201",
       "thio": "hola",
       "status": "0",
-      "onpckg": "com.fjdTh8tg7gfd.fy65rfmj.lyh7zUzgk2.YHgtdv44fds"
+      "onpckg": "com.yfkTF9hh.gtfiYG5ju.ujdyh2tgNfgHB"
     },
     {
       // ggle 144 X
@@ -117,7 +117,7 @@
       "into": "ca-app-pub-2277676619239809/1277005969",
       "thio": "ca-app-pub-2277676619239809/5760118409",
       "status": "0",
-      "onpckg": "com.fjdTh8tg7gfd.fy65rfmj.lyh7zUzgk2.YHgtdv44fds"
+      "onpckg": "com.yfkTF9hh.gtfiYG5ju.ujdyh2tgNfgHB"
     },
     {
       // ggle 145_1 X
@@ -127,7 +127,7 @@
       "into": "ca-app-pub-2277676619239809/4278810180",
       "thio": "hola",
       "status": "0",
-      "onpckg": "com.fjdTh8tg7gfd.fy65rfmj.lyh7zUzgk2.YHgtdv44fds"
+      "onpckg": "com.yfkTF9hh.gtfiYG5ju.ujdyh2tgNfgHB"
     },
     {
       // ggle 145_2 X
@@ -137,7 +137,7 @@
       "into": "ca-app-pub-2277676619239809/9950062970",
       "thio": "hola",
       "status": "0",
-      "onpckg": "com.fjdTh8tg7gfd.fy65rfmj.lyh7zUzgk2.YHgtdv44fds"
+      "onpckg": "com.yfkTF9hh.gtfiYG5ju.ujdyh2tgNfgHB"
     },
     {
       // ggle 146 X
@@ -147,7 +147,7 @@
       "into": "ca-app-pub-2277676619239809/9057328294",
       "thio": "hola",
       "status": "0",
-      "onpckg": "com.fjdTh8tg7gfd.fy65rfmj.lyh7zUzgk2.YHgtdv44fds"
+      "onpckg": "com.yfkTF9hh.gtfiYG5ju.ujdyh2tgNfgHB"
     },
     {
       // test old App
@@ -192,7 +192,7 @@
       "thio": "",  //old version
       "statu_Rndm_Adr_m_iod": "0",
       "status": "0",
-      "onpckg": "com.fjdTh8tg7gfd.fy65rfmj.lyh7zUzgk2.YHgtdv44fds",
+      "onpckg": "com.yfkTF9hh.gtfiYG5ju.ujdyh2tgNfgHB",
       "Addoinas": [
                 {
                 "idd": "1",
@@ -237,9 +237,9 @@
                 }
                   ],
       //if you if
-      "status": "1",
+      "status": "0",
       "onpckg1pk": "No", // Yes/No
-      "onpckg": null
+      "onpckg": "com.yfkTF9hh.gtfiYG5ju.ujdyh2tgNfgHB"
     },
     {
                        
@@ -271,12 +271,12 @@
       "statu_Rndm_Adr_m_iod": "0", 
       "MxCtor": "1",   
       "AddoinasV2": [
-                {
+                {//nbr8
                 "idd": "1",
-                "jumppckgGH": "com.yf5F9hh.gth2t152gNffju.ujdykTiYGgHB",
+                "jumppckgGH": "com.hGThn12n6tfU2.gfv12c54.yggF",
                 "publGH": "",
                 "banio": "",
-                "into": "",
+                "into": "ca-app-pub-5256889184890078/9533901948",
                 "thio": ""
                 }
                   ],
