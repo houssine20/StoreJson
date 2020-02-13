@@ -106,7 +106,7 @@
       "banio": "ca-app-pub-2277676619239809/2318624893",
       "into": "ca-app-pub-2277676619239809/1333363201",
       "thio": "hola",
-      "status": "0",
+      "status": "1",
       "onpckg": "com.yfkTF9hh.gtfiYG5ju.ujdyh2tgNfgHB"
     },
     {
@@ -116,7 +116,7 @@
       "banio": "ca-app-pub-2277676619239809/9890935106",
       "into": "ca-app-pub-2277676619239809/1277005969",
       "thio": "ca-app-pub-2277676619239809/5760118409",
-      "status": "0",
+      "status": "1",
       "onpckg": "com.yfkTF9hh.gtfiYG5ju.ujdyh2tgNfgHB"
     },
     {
@@ -126,7 +126,7 @@
       "banio": "ca-app-pub-2277676619239809/6006948535",
       "into": "ca-app-pub-2277676619239809/4278810180",
       "thio": "hola",
-      "status": "0",
+      "status": "1",
       "onpckg": "com.yfkTF9hh.gtfiYG5ju.ujdyh2tgNfgHB"
     },
     {
@@ -136,7 +136,7 @@
       "banio": "ca-app-pub-2277676619239809/9211696379",
       "into": "ca-app-pub-2277676619239809/9950062970",
       "thio": "hola",
-      "status": "0",
+      "status": "1",
       "onpckg": "com.yfkTF9hh.gtfiYG5ju.ujdyh2tgNfgHB"
     },
     {
@@ -146,7 +146,7 @@
       "banio": "ca-app-pub-2277676619239809/8196506919",
       "into": "ca-app-pub-2277676619239809/9057328294",
       "thio": "hola",
-      "status": "0",
+      "status": "1",
       "onpckg": "com.yfkTF9hh.gtfiYG5ju.ujdyh2tgNfgHB"
     },
     {
@@ -191,7 +191,7 @@
       //old thio ca-app-pub-1792009620133696/5040182657
       "thio": "",  //old version
       "statu_Rndm_Adr_m_iod": "0",
-      "status": "0",
+      "status": "1",
       "onpckg": "com.yfkTF9hh.gtfiYG5ju.ujdyh2tgNfgHB",
       "Addoinas": [
                 {
@@ -237,7 +237,7 @@
                 }
                   ],
       //if you if
-      "status": "0",
+      "status": "1",
       "onpckg1pk": "No", // Yes/No
       "onpckg": "com.yfkTF9hh.gtfiYG5ju.ujdyh2tgNfgHB"
     },
