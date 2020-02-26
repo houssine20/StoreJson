@@ -91,12 +91,12 @@
       "statu_Rndm_Adr_m_iod": "0", 
       "MxCtor": "1", 
       "AddoinasV2": [
-                {//nbr2
+                {//nbr11
                 "idd": "1",
-                "jumppckgGH": "vividmusic.freemusic.gptubeplayer",
+                "jumppckgGH": "com.dhuugt5dfcv.konjd.bhdnd",
                 "publGH": "",
-                "banio": "",
-                "into": "ca-app-pub-2544290849483745/8479146047",
+                "banio": "ca-app-pub-4051725403473439/7213109919",
+                "into": "ca-app-pub-4051725403473439/2699149833",
                 "thio": ""
                 }
                   ],
@@ -255,11 +255,11 @@
       "statu_Rndm_Adr_m_iod": "0", 
       "MxCtor": "1",   
       "AddoinasV2": [
-                {
+                {//nbr6
                 "idd": "1",
                 "jumppckgGH": "com.dgRFDbbb3dJUHNN.tgd7j8jTGFR5zzzs",
                 "publGH": "",
-                "banio": "",
+                "banio": "ca-app-pub-2748749413469720/3793681609",
                 "into": "ca-app-pub-2748749413469720/9712739617",
                 "thio": ""
                 }
