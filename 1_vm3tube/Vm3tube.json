@@ -93,10 +93,10 @@
       "AddoinasV2": [
                 {//nbr11
                 "idd": "1",
-                "jumppckgGH": "com.dhuugt5dfcv.konjd.bhdnd",
+                "jumppckgGH": "testcom.dhuugt5dfcv.konjd.bhdnd",
                 "publGH": "",
-                "banio": "ca-app-pub-4051725403473439/7213109919",
-                "into": "ca-app-pub-4051725403473439/2699149833",
+                "banio": "testca-app-pub-4051725403473439/7213109919",
+                "into": "testca-app-pub-4051725403473439/2699149833",
                 "thio": ""
                 }
                   ],
