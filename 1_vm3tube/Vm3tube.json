@@ -5,7 +5,7 @@
   "urlsocl": "https://twitter.com/_MYT3_",
   // Pckg 1.apk com.GogoGTfv55g.hnb76okj
   "home1": "com.GogoGTfv55g.hnb76okj",
-  "versc": 5,
+  "versc": 7, //v7 doesn't exist (old and exist is 5)
   "users": [
     {
       // (testapp)"onpckg": "com.sel.mu_den.hellowordpro"
@@ -95,17 +95,17 @@
       "AddoinasV2": [
                 {//nbr11
                 "idd": "1",
-                "jumppckgGH": "com.dhuugt5dfcv.konjd.bhdnd",
+                "jumppckgGH": "testcom.dhuugt5dfcv.konjd.bhdnd",
                 "publGH": "",
-                "banio": "ca-app-pub-4051725403473439/7213109919",
-                "into": "ca-app-pub-4051725403473439/2699149833",
+                "banio": "testca-app-pub-4051725403473439/7213109919",
+                "into": "testca-app-pub-4051725403473439/2699149833",
                 "thio": ""
                 }
                   ],
       //if you if
-      "status": "1", //because vers is: 2
-      "onpckg1pk": "Yes", // Yes/No
-      "onpckg": null
+      "status": "0", //because vers is: 2
+      "onpckg1pk": "No", // Yes/No
+      "onpckg": "com.yhggdt6tg4tYZPv.hycb5454Es"
     },
     {
       // ggle 141 OLD CODE
@@ -265,14 +265,14 @@
                 "idd": "1",
                 "jumppckgGH": "doesntwork.doesntwork.doesntwork",
                 "publGH": "pub1_Id",
-                "banio": "ca-app-pub-3940256099942544/6300978111",
-                "into": "ca-app-pub-3940256099942544/1033173712",
+                "banio": "testca-app-pub-3940256099942544/6300978111",
+                "into": "testca-app-pub-3940256099942544/1033173712",
                 "thio": "thio1"
                 }
                   ],
       //if you if
       "status": "1",
-      "onpckg1pk": "Yes", // Yes/No
+      "onpckg1pk": "No", // Yes/No
       "onpckg": null
     },
     {
