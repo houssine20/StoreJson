@@ -301,18 +301,23 @@
     },
     {
                        
-      // ggle_vtnm_I 150        
+      // ggle_vtnm_I 150 
+
       "id": "18",
       "username": "com.fjdTh8tg7gfd.fy65rfmj.lyh7zUzgk2.YHgtdv44fds",
-      "statu_Rndm_Adr_m_iod": "0", 
-      "MxCtor": "1",   
+      "fabosapckgGH": "testo.testa", //doesn't work
+      "fabosabanio": "app150_482008662707579_482019982706447",
+      "fabosaintras": "app150_482008662707579_482050749370037",
+      "statu_Rndm_Adr_m_iod": "0",       
+      "MxCtor": "1",
+      //Sqlite
       "AddoinasV2": [
-                {//nbr6
+                {
                 "idd": "1",
-                "jumppckgGH": "com.dgRFDbbb3dJUHNN.tgd7j8jTGFR5zzzs",
+                "jumppckgGH": "testo.testa",
                 "publGH": "",
-                "banio": "ca-app-pub-2748749413469720/3793681609",
-                "into": "ca-app-pub-2748749413469720/9712739617",
+                "banio": "",
+                "into": "",
                 "thio": ""
                 }
                   ],
