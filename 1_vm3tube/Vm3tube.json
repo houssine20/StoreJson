@@ -55,6 +55,7 @@
                 "thio": "pub2_thio"
                 }
                   ],
+      "chainyola": ["ahmed","zayd","omar","saaid"],
       //if you if
       "status": "0",
       "onpckg1pk": "Yes", // Yes/No
