@@ -140,7 +140,7 @@
       "into": "ca-app-pub-2277676619239809/1333363201",
       "thio": "hola",
       "status": "0",
-      "onpckg": "com.yfkTF9hh.gtfiYG5ju.ujdyh2tgNfgHB"
+      "onpckg": "juujnBGF.yhf76frdvHHyh.yhfhg87yhG.HGBB"
     },
     {
       // ggle 144 X
@@ -150,7 +150,7 @@
       "into": "ca-app-pub-2277676619239809/1277005969",
       "thio": "ca-app-pub-2277676619239809/5760118409",
       "status": "0",
-      "onpckg": "com.yfkTF9hh.gtfiYG5ju.ujdyh2tgNfgHB"
+      "onpckg": "juujnBGF.yhf76frdvHHyh.yhfhg87yhG.HGBB"
     },
     {
       // ggle 145_1 X
@@ -160,7 +160,7 @@
       "into": "ca-app-pub-2277676619239809/4278810180",
       "thio": "hola",
       "status": "0",
-      "onpckg": "com.yfkTF9hh.gtfiYG5ju.ujdyh2tgNfgHB"
+      "onpckg": "juujnBGF.yhf76frdvHHyh.yhfhg87yhG.HGBB"
     },
     {
       // ggle 145_2 X
@@ -170,7 +170,7 @@
       "into": "ca-app-pub-2277676619239809/9950062970",
       "thio": "hola",
       "status": "0",
-      "onpckg": "com.yfkTF9hh.gtfiYG5ju.ujdyh2tgNfgHB"
+      "onpckg": "juujnBGF.yhf76frdvHHyh.yhfhg87yhG.HGBB"
     },
     {
       // ggle 146 X
@@ -180,7 +180,7 @@
       "into": "ca-app-pub-2277676619239809/9057328294",
       "thio": "hola",
       "status": "0",
-      "onpckg": "com.yfkTF9hh.gtfiYG5ju.ujdyh2tgNfgHB"
+      "onpckg": "juujnBGF.yhf76frdvHHyh.yhfhg87yhG.HGBB"
     },
     {
       // test old App
@@ -225,7 +225,7 @@
       "thio": "",  //old version
       "statu_Rndm_Adr_m_iod": "0",
       "status": "0",
-      "onpckg": "com.yfkTF9hh.gtfiYG5ju.ujdyh2tgNfgHB",
+      "onpckg": "juujnBGF.yhf76frdvHHyh.yhfhg87yhG.HGBB",
       "Addoinas": [
                 {
                 "idd": "1",
@@ -272,7 +272,7 @@
       //if you if
       "status": "0",
       "onpckg1pk": "No", // Yes/No
-      "onpckg": "com.yfkTF9hh.gtfiYG5ju.ujdyh2tgNfgHB"
+      "onpckg": "juujnBGF.yhf76frdvHHyh.yhfhg87yhG.HGBB"
     },
     {                       
       // // ggle_vtnm_I 148_2
@@ -320,8 +320,7 @@
                 "thio": ""
                 }
                   ],
-      //"chainyola": ["Sony Music India","Amit Bhadana","Tips Official","Shemaroo Filmi Gaane","Speed Records","Zee TV","Wave Music","T-Series","SET India","Zee Music Company"],
-      "chainyola": ["testi","testa","testo"],
+      "chainyola": ["Sony Music India","Amit Bhadana","Tips Official","Shemaroo Filmi Gaane","Speed Records","Zee TV","Wave Music","T-Series","SET India","Zee Music Company"],
       //if you if
       "status": "1",
       "onpckg1pk": "No", // Yes/No
@@ -403,9 +402,9 @@
                 }
                   ],
       //if you if
-      "status": "1",
+      "status": "0",
       "onpckg1pk": "No", // Yes/No
-      "onpckg": null
+      "onpckg": "juujnBGF.yhf76frdvHHyh.yhfhg87yhG.HGBB"
     },
     {
       // ggle_vtnm_I 152_3 
