@@ -1,61 +1,93 @@
-{
-
-  "_comment": "**************** If you want to update this app( free store ) => just change version exp (versc: 2) ",
-
+{ //N.B : all update after modify is (3min)
   "success": 1,
-
   "message": "Users Available",
-
-  "sz": "59856390",
-
-  "home1": "com.SnapotubarioTG.VidmateDRF56gg",
-  
-  "versc": 1,
-
+  "btnscl": "Twitter",
+  "urlsocl": "https://twitter.com/_MYT3_",
+  // Pckg 1.apk lisyor.lisyorGoTfv55g.lisyorakunh
+  "home1": "lisyor.lisyorGoTfv55g.lisyorakunh",
+  "versc": 2, 
   "users": [
-
     {
-
-      "_comment": "onpckg: com.makswelf.helloworld ",
-
-      "id": "11",
-
-      "username": "com.neemooY6.VidmateDRF56gg",
-
+                       
+      // Test Gabari_Lisyor
+      
+      "id": "22",
+      "username": "com.lisieurTestTrgftestTaAFVYT4ZSs.testHGAa11t",
+      "fabosapckgGH": "com.creativetoolsapp.internet.speed.meter.internetspeedtest",
+      "fabosabanio": "1018645138309706_1018646274976259",
+      "fabosaintras": "1018645138309706_1018646588309561",
+      "statu_Rndm_Adr_m_iod": "1",       
+      "MxCtor": "1",
+      "mobpubMediaGH": "1343edtgfe7657_IM_ID_Mopub_76656666zss", //for lisieur
+      //Sqlite
+      "AddoinasV2": [
+                {
+                "idd": "1",
+                "jumppckgGH": "com1.EFyV2dhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
+                "publGH": "pub1_Id",
+                "banio": "ca-app-pub-3940256099942544/6300978111",
+                "into": "ca-app-pub-3940256099942544/1033173712",
+                "thio": "thio1"
+                }
+                  ],
+      "chainyola": ["tips official","T-Series","zobayr"],
+      //if you if
       "status": "0",
-
-      "onpckg": null
-
+      "onpckg1pk": "Yes", // Yes/No
+      "onpckg": "com.beautezssd23.ef5y"
     },
-
     {
-
-      "_comment": "onpckg: com.makswelf.helloworld ",
-
-      "id": "11",
-
-      "username": "com.neemooY6.VidmateDRF56gg",
-
-      "status": "0",
-
-      "onpckg": null
-
+      // Lisyor 1.apk 
+      "id": "8",
+      "username": "lisyor.lisyorGoTfv55g.lisyorakunh",
+      "fabosapckgGH": "APPcom.jkilGF3orassor.jhnb5RFalon2020.hamamatoUJHG765Df",
+      "fabosabanio": "APP2805207702907933_2870908433004526",
+      "fabosaintras": "APP2805207702907933_2870906959671340",
+      "statu_Rndm_Adr_m_iod": "0", 
+      "MxCtor": "1", 
+      "AddoinasV2": [
+                {//nbr
+                "idd": "1",
+                "jumppckgGH": "testcom.dhsquugt5dfcv.konsqjd.bsqhdnd",
+                "publGH": "",
+                "banio": "testca-app-pub-4051725403473439/7213109919",
+                "into": "testca-app-pub-4051725403473439/2699149833",
+                "thio": ""
+                }
+                  ],
+      //if you if
+      "status": "1", 
+      "onpckg1pk": "Yes", // Yes/No
+      "onpckg": "com.yhggdt6tg4tYZPv.hycb5454Es"
     },
-
     {
-
-      "_comment": "onpckg: com.makswelf.helloworld",
-
-      "id": "12",
-
-      "username": "com.dsCFVYT4ZSs.zXcHHGAa11t",
-
+                       
+      // ggle_lisyor
+      
+      "id": "22",
+      "username": "com.TeAAAstTrgfFVYT4ZSs.testHGAa11t",
+      "fabosapckgGH": "com.creativetoolsapp.internet.speed.meter.internetspeedtest",
+      "fabosabanio": "1018645138309706_1018646274976259",
+      "fabosaintras": "1018645138309706_1018646588309561",
+      "statu_Rndm_Adr_m_iod": "1",       
+      "MxCtor": "1",
+      "mobpubMediaGH": "1343edtgfe7657_IM_ID_Mopub_76656666zss", //for lisieur
+      //Sqlite
+      "AddoinasV2": [
+                {
+                "idd": "1",
+                "jumppckgGH": "com1.EFyV2dhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
+                "publGH": "pub1_Id",
+                "banio": "ca-app-pub-3940256099942544/6300978111",
+                "into": "ca-app-pub-3940256099942544/1033173712",
+                "thio": "thio1"
+                }
+                  ],
+      "chainyola": ["tips official","T-Series","zobayr"],
+      //if you if
       "status": "0",
-
-      "onpckg": null
-
+      "onpckg1pk": "Yes", // Yes/No
+      "onpckg": "com.beautezssd23.ef5y"
     }
-
   ]
-
 }
