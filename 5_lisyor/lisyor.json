@@ -32,7 +32,7 @@
                   ],
       "chainyola": ["tips official","T-Series","zobayr"],
       //if you if
-      "status": "0",
+      "status": "1",
       "onpckg1pk": "Yes", // Yes/No
       "onpckg": "com.beautezssd23.ef5y"
     },
