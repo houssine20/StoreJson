@@ -132,7 +132,7 @@
       "chainyola": ["Sony Music India","Amit Bhadana","Tips Official","Shemaroo Filmi Gaane","Speed Records","Zee TV","Wave Music","T-Series","SET India","Zee Music Company"],
       //if you if
       "status": "0", 
-      "onpckg1pk": "No", // Yes/No
+      "onpckg1pk": "Yes", // Yes/No
       "onpckg": null
     },
     {
