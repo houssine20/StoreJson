@@ -6,7 +6,7 @@
   // Pckg 1.apk com.GogoGTfv55g.hnb76okj
   // Pckg 2.apk comapp2.app2GogoGTfv55g.app2hnb76okj
   "home1": "comapp2.app2GogoGTfv55g.app2hnb76okj",
-  "versc": 2, 
+  "versc": 3, 
   "users": [
     {
       // (testapp)"onpckg": "com.sel.mu_den.hellowordpro"
@@ -130,9 +130,9 @@
                 }
                   ],
       //if you if
-      "status": "1", 
-      "onpckg1pk": "Yes", // Yes/No
-      "onpckg": "com.yhggdt6tg4tYZPv.hycb5454Es"
+      "status": "0", 
+      "onpckg1pk": "No", // Yes/No
+      "onpckg": null
     },
     {
       // ggle 141 OLD CODE
