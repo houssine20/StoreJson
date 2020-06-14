@@ -8,37 +8,8 @@
   "versc": 2, 
   "users": [
     {
-                       
-      // Test Gabari_Lisyor
-      
-      "id": "22",
-      "username": "com.lisieurTestTrgftestTaAFVYT4ZSs.testHGAa11t",
-      "fabosapckgGH": "com.creativetoolsapp.internet.speed.meter.internetspeedtest",
-      "fabosabanio": "1018645138309706_1018646274976259",
-      "fabosaintras": "1018645138309706_1018646588309561",
-      "statu_Rndm_Adr_m_iod": "1",       
-      "MxCtor": "1",
-      "mobpubMediaGH": "1343edtgfe7657_IM_ID_Mopub_76656666zss", //for lisieur
-      //Sqlite
-      "AddoinasV2": [
-                {
-                "idd": "1",
-                "jumppckgGH": "com1.EFyV2dhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
-                "publGH": "",
-                "banio": "ca-app-pub-5456881337868996/4199917549", //AD_Native
-                "into": "ca-app-pub-5456881337868996/8031732211",
-                "thio": ""
-                }
-                  ],
-      "chainyola": ["tips official","T-Series","zobayr"],
-      //if you if
-      "status": "1",
-      "onpckg1pk": "Yes", // Yes/No
-      "onpckg": "com.beautezssd23.ef5y"
-    },
-    {
       // Lisyor 1.apk 
-      "id": "8",
+      "id": "1",
       "username": "lisyor.lisyorGoTfv55g.lisyorakunh",
       "fabosapckgGH": "APPcom.jkilGF3orassor.jhnb5RFalon2020.hamamatoUJHG765Df",
       "fabosabanio": "APP2805207702907933_2870908433004526",
@@ -64,7 +35,7 @@
                        
       // ggle_lisyor
       
-      "id": "22",
+      "id": "2",
       "username": "com.TeAAAstTrgfFVYT4ZSs.testHGAa11t",
       "fabosapckgGH": "com.creativetoolsapp.internet.speed.meter.internetspeedtest",
       "fabosabanio": "1018645138309706_1018646274976259",
@@ -86,6 +57,35 @@
       "chainyola": ["tips official","T-Series","zobayr"],
       //if you if
       "status": "0",
+      "onpckg1pk": "Yes", // Yes/No
+      "onpckg": "com.beautezssd23.ef5y"
+    },
+    {
+                       
+      // Test Gabari_Lisyor
+      
+      "id": "3",
+      "username": "com.lisieurTestTrgftestTaAFVYT4ZSs.testHGAa11t",
+      "fabosapckgGH": "com.creativetoolsapp.internet.speed.meter.internetspeedtest",
+      "fabosabanio": "1018645138309706_1018646274976259",
+      "fabosaintras": "1018645138309706_1018646588309561",
+      "statu_Rndm_Adr_m_iod": "1",       
+      "MxCtor": "1",
+      "mobpubMediaGH": "1343edtgfe7657_IM_ID_Mopub_76656666zss", //for lisieur
+      //Sqlite
+      "AddoinasV2": [
+                {
+                "idd": "1",
+                "jumppckgGH": "com1.EFyV2dhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
+                "publGH": "",
+                "banio": "ca-app-pub-5456881337868996/4199917549", //AD_Native
+                "into": "ca-app-pub-5456881337868996/8031732211",
+                "thio": ""
+                }
+                  ],
+      "chainyola": ["tips official","T-Series","zobayr"],
+      //if you if
+      "status": "1",
       "onpckg1pk": "Yes", // Yes/No
       "onpckg": "com.beautezssd23.ef5y"
     }
