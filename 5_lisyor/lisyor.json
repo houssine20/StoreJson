@@ -66,9 +66,9 @@
       
       "id": "3",
       "username": "com.lisieurTestTrgftestTaAFVYT4ZSs.testHGAa11t",
-      "fabosapckgGH": "com.creativetoolsapp.internet.speed.meter.internetspeedtest",
-      "fabosabanio": "1018645138309706_1018646274976259",
-      "fabosaintras": "1018645138309706_1018646588309561",
+      "fabosapckgGH": "",
+      "fabosabanio": "",
+      "fabosaintras": "",
       "statu_Rndm_Adr_m_iod": "1",       
       "MxCtor": "1",
       "mobpubMediaGH": "1343edtgfe7657_IM_ID_Mopub_76656666zss", //for lisieur
@@ -78,14 +78,14 @@
                 "idd": "1",
                 "jumppckgGH": "com1.EFyV2dhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
                 "publGH": "",
-                "banio": "ca-app-pub-5456881337868996/4199917549", //AD_Native
-                "into": "ca-app-pub-5456881337868996/8031732211",
+                "banio": "ca-app-pub-3940256099942544/2247696110", //AD_Native
+                "into": "ca-app-pub-3940256099942544/1033173712",
                 "thio": ""
                 }
                   ],
       "chainyola": ["tips official","T-Series","zobayr"],
       //if you if
-      "status": "0",
+      "status": "1",
       "onpckg1pk": "Yes", // Yes/No
       "onpckg": "com.beautezssd23.ef5y"
     }
