@@ -77,7 +77,7 @@
                 {
                 "idd": "1",
                 "jumppckgGH": "com1.EFyV2dhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
-                "publGH": "",
+                "publGH": "",//change it on code
                 "banio": "ca-app-pub-3940256099942544/2247696110", //AD_Native
                 "into": "ca-app-pub-3940256099942544/1033173712",
                 "thio": ""
