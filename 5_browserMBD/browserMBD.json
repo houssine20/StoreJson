@@ -1,0 +1,93 @@
+{ //N.B : all update after modify is (3min)
+  "success": 1,
+  "message": "Users Available",
+  "btnscl": "Twitter",
+  "urlsocl": "https://twitter.com/_MYT3_",
+  // Pckg 1.apk lisyor.lisyorGoTfv55g.lisyorakunh
+  "home1": "lisyor.lisyorGoTfv55g.lisyorakunh",
+  "versc": 2, 
+  "users": [
+    {
+      // browserMBD 1.apk 
+      "id": "1",
+      "username": "lisyor.lisyorGoTfv55g.lisyorakunh",
+      "fabosapckgGH": "APPcom.jkilGF3orassor.jhnb5RFalon2020.hamamatoUJHG765Df",
+      "fabosabanio": "APP2805207702907933_2870908433004526",
+      "fabosaintras": "APP2805207702907933_2870906959671340",
+      "statu_Rndm_Adr_m_iod": "0", 
+      "MxCtor": "1", 
+      "AddoinasV2": [
+                {//nbr
+                "idd": "1",
+                "jumppckgGH": "testcom.dhsquugt5dfcv.konsqjd.bsqhdnd",
+                "publGH": "",
+                "banio": "testca-app-pub-4051725403473439/7213109919",
+                "into": "testca-app-pub-4051725403473439/2699149833",
+                "thio": ""
+                }
+                  ],
+      //if you if
+      "status": "1", 
+      "onpckg1pk": "Yes", // Yes/No
+      "onpckg": "com.yhggdt6tg4tYZPv.hycb5454Es"
+    },
+    {
+                       
+      // ggle_browserMBD
+      
+      "id": "2",
+      "username": "com.totot233.Testo2323.tesTo88",
+      "fabosapckgGH": "",
+      "fabosabanio": "testooo51804075237_2037514899",
+      "fabosaintras": "testooo51804075237_2075075232",
+      "statu_Rndm_Adr_m_iod": "1",       
+      "MxCtor": "1",
+      "mobpubMediaGH": "1343edtgfe7657_IM_ID_Mopub_76656666zss", //for lisieur
+      //Sqlite
+      "AddoinasV2": [
+                {
+                "idd": "1",
+                "jumppckgGH": "com1.EFyV2dhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
+                "publGH": "",//change it on code
+                "banio": "testca-app-pub-3940256099942544/2247696110", //AD_Native
+                "into": "testca-app-pub-3940256099942544/1033173712",
+                "thio": ""
+                }
+                  ],
+      "chainyola": ["jean","tom"],
+      //if you if
+      "status": "1",
+      "onpckg1pk": "Yes", // Yes/No
+      "onpckg": null
+    },
+    {
+                       
+      // Test Gabari_browserMBD
+      
+      "id": "3",
+      "username": "tESTOzander.tESTAzandermusic",
+      "fabosapckgGH": "",
+      "fabosabanio": "203751804075237_203751850741899",
+      "fabosaintras": "203751804075237_203751854075232",
+      "statu_Rndm_Adr_m_iod": "1",       
+      "MxCtor": "1",
+      "mobpubMediaGH": "1343edtgfe7657_IM_ID_Mopub_76656666zss", //for lisieur
+      //Sqlite
+      "AddoinasV2": [
+                {
+                "idd": "1",
+                "jumppckgGH": "com1.EFyV2dhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
+                "publGH": "",//change it on code
+                "banio": "ca-app-pub-3940256099942544/2247696110", //AD_Native
+                "into": "ca-app-pub-3940256099942544/1033173712",
+                "thio": ""
+                }
+                  ],
+      "chainyola": ["tips official","T-Series","zobayr"],
+      //if you if
+      "status": "0",
+      "onpckg1pk": "Yes", // Yes/No
+      "onpckg": "com.beautezssd23.ef5y"
+    }
+  ]
+}
