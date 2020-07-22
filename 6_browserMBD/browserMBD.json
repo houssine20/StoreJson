@@ -76,16 +76,16 @@
       "AddoinasV2": [
                 {
                 "idd": "1",
-                "jumppckgGH": "com1.EFyV2dhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
-                "publGH": "",//change it on code
-                "banio": "ca-app-pub-3940256099942544/2247696110", //AD_Native
+                "jumppckgGH": "com1.EFyU4YH8V2dhdyGjYsh.ZoZYkjdYUJ.ofhkij",
+                "publGH": " ca-app-pub-3940256099942544~3347511713",
+                "banio": "ca-app-pub-3940256099942544/6300978111",
                 "into": "ca-app-pub-3940256099942544/1033173712",
                 "thio": ""
                 }
                   ],
       "chainyola": ["tips official","T-Series","zobayr"],
       //if you if
-      "status": "0",
+      "status": "1",
       "onpckg1pk": "Yes", // Yes/No
       "onpckg": "com.beautezssd23.ef5y"
     }
