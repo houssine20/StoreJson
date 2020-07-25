@@ -421,9 +421,9 @@
 
       "id": "22",
       "username": "com.topmusic.comsryMusic.srymusic.free.sry2020",
-      "fabosapckgGH": "com.creativetoolsapp.internet.speed.meter.internetspeedtest",
-      "fabosabanio": "1018645138309706_1018646274976259",
-      "fabosaintras": "1018645138309706_1018646588309561",
+      "fabosapckgGH": "testo.testa",
+      "fabosabanio": "123",
+      "fabosaintras": "321",
       "statu_Rndm_Adr_m_iod": "0",       
       "MxCtor": "1",
       //Sqlite
@@ -449,9 +449,9 @@
 
       "id": "23",
       "username": "com.sry2topmusic.comsryMusic.srymusic.sry2free.sry2020",
-      "fabosapckgGH": "testo.testa", //doesn't work
-      "fabosabanio": "123",
-      "fabosaintras": "321",
+      "fabosapckgGH": "com.creativetoolsapp.internet.speed.meter.internetspeedtest",
+      "fabosabanio": "1018645138309706_1018646274976259",
+      "fabosaintras": "1018645138309706_1018646588309561",
       "statu_Rndm_Adr_m_iod": "0",       
       "MxCtor": "1",
       //Sqlite
