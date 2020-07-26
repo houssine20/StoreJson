@@ -337,13 +337,9 @@
 
       "id": "19",
       "username": "com.fjdTh8tg7gfd.fy65rfmj.lyh7zUzgk2.YHgtdv44fds",
-      "fabosapckgGH": "testo.testa", //doesn't work
+      "fabosapckgGH": "testo.testa", 
       "fabosabanio": "482008662707579_482019982706447",
       "fabosaintras": "482008662707579_482050749370037",
-
-      "fabosapckgGHtest": "com.creativetoolsapp.internet.speed.meter.internetspeedtest", //doesn't work
-      "fabosabaniotest": "1018645138309706_1018646274976259",
-      "fabosaintrastest": "1018645138309706_1018646588309561",
       "statu_Rndm_Adr_m_iod": "0",       
       "MxCtor": "1",
       //Sqlite
