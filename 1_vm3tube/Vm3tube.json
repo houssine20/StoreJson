@@ -320,7 +320,7 @@
       "fabosabanioV2": "171882160912360_171882914245618",
       "fabosaintrasV2": "171882160912360_171884910912085",
       //Old version
-      "fabosapckgGH": "testo.testa",
+      "fabosapckgGH": "testo.testa",//doesn't work
       "fabosabanio": "171882160912360_171882914245618",
       "fabosaintras": "171882160912360_171884910912085",
       "statu_Rndm_Adr_m_iod": "0",       
@@ -347,7 +347,12 @@
 
       "id": "19",
       "username": "com.fjdTh8tg7gfd.fy65rfmj.lyh7zUzgk2.YHgtdv44fds",
-      "fabosapckgGH": "testo.testa", 
+      //New version
+      "fabosapckgGHV2": "com.fjdTh8tg7gfd.fy65rfmj.lyh7zUzgk2.YHgtdv44fds",
+      "fabosabanioV2": "482008662707579_482019982706447",
+      "fabosaintrasV2": "482008662707579_482050749370037",
+      //Old version
+      "fabosapckgGH": "testo.testa", //doesn't work
       "fabosabanio": "482008662707579_482019982706447",
       "fabosaintras": "482008662707579_482050749370037",
       "statu_Rndm_Adr_m_iod": "0",       
