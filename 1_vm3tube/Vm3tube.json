@@ -465,9 +465,9 @@
 
       "id": "23",
       "username": "com.sry2topmusic.comsryMusic.srymusic.sry2free.sry2020",
-      "fabosapckgGH": "testo.testa", //doesn't work
-      "fabosabanio": "123",
-      "fabosaintras": "321",
+      "fabosapckgGH": "com.bnpp.easybanking", 
+      "fabosabanio": "656312844929373_716821398878517",
+      "fabosaintras": "656312844929373_716820935545230",
       "statu_Rndm_Adr_m_iod": "0",       
       "MxCtor": "1",
       //Sqlite
