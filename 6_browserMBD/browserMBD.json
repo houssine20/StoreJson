@@ -85,7 +85,7 @@
                   ],
       "chainyola": ["tips official","T-Series","zobayr"],//for vtnm
       //if you if
-      "status": "1",
+      "status": "0",
       "onpckg1pk": "Yes", // Yes/No
       "onpckg": null
     }
