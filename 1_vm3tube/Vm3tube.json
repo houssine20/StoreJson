@@ -835,7 +835,7 @@
       "chainyola": ["Sony Music India","Amit Bhadana","Tips Official","beyonce","Beyoncé","Shemaroo Filmi Gaane","Speed Records","Zee TV","Wave Music","T-Series","SET India","Zee Music Company","Alejandro Prada","David Rees","BERET","rihanna","Calvin Harris"],
       //if you if
       "status": "0",
-      "onpckg1pk": "No", // Yes/No
+      "onpckg1pk": "Yes", // Yes/No
       "onpckg": null
     },
     {
