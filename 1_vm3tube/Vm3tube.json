@@ -813,6 +813,33 @@
     },
     {
                        
+      // ggle_vtnm_I 155
+      "id": "33",
+      "username": "com.eugmusic.eugeugaLTD.freemusic2020",
+      "fabosapckgGH": "com.eugmusic.eugeugaLTD.freemusic2020", 
+      "fabosabanio": "",
+      "fabosaintras": "",
+      "statu_Rndm_Adr_m_iod": "0",       
+      "MxCtor": "1",
+      //Sqlite
+      "AddoinasV2": [
+                {
+                "idd": "1",
+                "jumppckgGH": "testo.testa",
+                "publGH": "",
+                "banio": "",
+                "into": "",
+                "thio": ""
+                }
+                  ],
+      "chainyola": ["Sony Music India","Amit Bhadana","Tips Official","beyonce","Beyoncé","Shemaroo Filmi Gaane","Speed Records","Zee TV","Wave Music","T-Series","SET India","Zee Music Company","Alejandro Prada","David Rees","BERET","rihanna","Calvin Harris"],
+      //if you if
+      "status": "0",
+      "onpckg1pk": "No", // Yes/No
+      "onpckg": null
+    },
+    {
+                       
       // Test ggle_vtnm_II 100
       
       "id": "34",
