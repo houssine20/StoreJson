@@ -894,7 +894,7 @@
     },
     {
                        
-      // Test ggle_vtnm_II 100
+      // Test Vtnm_Gabari
       
       "id": "35",
       "username": "com.TestTrgfFVYT4ZSs.testHGAa11t",
@@ -922,6 +922,35 @@
       "chainyola": ["tips official","T-Series","beyonce","Beyoncé","zobayr","Alejandro Prada","David Rees","BERET","rihanna","Calvin Harris"],
       //if you if
       "status": "1",
+      "onpckg1pk": "Yes", // Yes/No
+      "onpckg": "com.beautezssd23.ef5y"
+    },
+    {
+                       
+      // Test Ateca_Gabari
+      
+      "id": "36",
+      "username": "com.atecaTestTrgfFVYT4ZSs.atecatestHGAa11t",
+      "fabosapckgGH": "com.cosima.ryt3mus",
+      "fabosabanio": "608050380060680_608052283393823",
+      "fabosaintras": "608050380060680_610375623161489",
+      "statu_Rndm_Adr_m_iod": "1",       
+      "MxCtor": "1",
+      "mobpubMediaGH": "6.2.0", //vrs SDK
+      //Sqlite
+      "AddoinasV2": [
+                {
+                "idd": "1",
+                "jumppckgGH": "com1.EFyV2dhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
+                "publGH": "pub1_Id",
+                "banio": "testca-app-pub-3940256099942544/6300978111",
+                "into": "testca-app-pub-3940256099942544/1033173712",
+                "thio": "thio1"
+                }
+                  ],
+      "chainyola": ["tips official","T-Series","beyonce","Beyoncé","zobayr","Alejandro Prada","David Rees","BERET","rihanna","Calvin Harris"],
+      //if you if
+      "status": "0",
       "onpckg1pk": "Yes", // Yes/No
       "onpckg": "com.beautezssd23.ef5y"
     }
