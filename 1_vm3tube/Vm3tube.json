@@ -327,7 +327,7 @@
       "fabosapckgGHV3": "com.yhggdt6tg4tYZPv.hycb5454Es",
       "fabosabanioV3": "542129806739027_542131743405500",
       "fabosaintrasV3": "542129806739027_542140940071247",
-      
+
       "statu_Rndm_Adr_m_iod": "0",       
       "MxCtor": "1",
       //Sqlite
@@ -941,7 +941,7 @@
       "fabosaintras": "273961656915891_273961703582553",
       "statu_Rndm_Adr_m_iod": "1",       
       "MxCtor": "1",
-      "mobpubMediaGH": "6.2.0", //vrs SDK
+      "mobpubMediaGH": "", //vrs SDK don't work on Ateca
       //Sqlite
       "AddoinasV2": [
                 {
@@ -953,9 +953,9 @@
                 "thio": "thio1"
                 }
                   ],
-      "chainyola": ["tips official","T-Series","beyonce","Beyoncé","zobayr","Alejandro Prada","David Rees","BERET","rihanna","Calvin Harris"],
+      "chainyola": ["tips official","test"], //don't work on Ateca
       //if you if
-      "status": "1",
+      "status": "0",
       "onpckg1pk": "Yes", // Yes/No
       "onpckg": "com.beautezssd23.ef5y"
     }
