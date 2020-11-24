@@ -683,26 +683,28 @@
     },
     {
                        
-      // ggle_Ateca 150_5
-      "id": "28",
+      //ggle_Ateca 150_5
+      
+      "id": "38",
       "username": "com.hdyh6Tfgdvcijj.comldkjusy62020hnfg",
-      "fabosapckgGH": "syhrh.rirkjf.rkrif.fjfh", 
+      "fabosapckgGH": "com.defrd.frfrfr",
       "fabosabanio": "",
       "fabosaintras": "",
-      "statu_Rndm_Adr_m_iod": "0",       
+      "statu_Rndm_Adr_m_iod": "1",       
       "MxCtor": "1",
+      "mobpubMediaGH": "", //vrs SDK don't work on Ateca
       //Sqlite
       "AddoinasV2": [
                 {
                 "idd": "1",
-                "jumppckgGH": "testo.testa",
-                "publGH": "",
-                "banio": "",
-                "into": "",
-                "thio": ""
+                "jumppckgGH": "com1.EFyV2dhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
+                "publGH": "pub1_Id",
+                "banio": "testca-app-pub-3940256099942544/6300978111",
+                "into": "testca-app-pub-3940256099942544/1033173712",
+                "thio": "thio1"
                 }
                   ],
-      "chainyola": ["Sony Music India","Amit Bhadana","Tips Official","beyonce","Beyoncé","Shemaroo Filmi Gaane","Speed Records","Zee TV","Wave Music","T-Series","SET India","Zee Music Company","Alejandro Prada","David Rees","BERET","rihanna","Calvin Harris"],
+      "chainyola": ["tips official","test"], //don't work on Ateca
       //if you if
       "status": "0",
       "onpckg1pk": "Yes", // Yes/No
