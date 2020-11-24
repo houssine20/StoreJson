@@ -899,9 +899,38 @@
     },
     {
                        
+      // ggl_Ateca 167
+      
+      "id": "36",
+      "username": "com.gdtryyyT65TRFGTFVCGF.ujfhynbgh56RFvgdgc",
+      "fabosapckgGH": "com.gdtryyyT65TRFGTFVCGF.ujfhynbgh56RFvgdgc",
+      "fabosabanio": "",
+      "fabosaintras": "",
+      "statu_Rndm_Adr_m_iod": "1",       
+      "MxCtor": "1",
+      "mobpubMediaGH": "", //vrs SDK don't work on Ateca
+      //Sqlite
+      "AddoinasV2": [
+                {
+                "idd": "1",
+                "jumppckgGH": "com1.EFyV2dhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
+                "publGH": "pub1_Id",
+                "banio": "testca-app-pub-3940256099942544/6300978111",
+                "into": "testca-app-pub-3940256099942544/1033173712",
+                "thio": "thio1"
+                }
+                  ],
+      "chainyola": ["tips official","test"], //don't work on Ateca
+      //if you if
+      "status": "0",
+      "onpckg1pk": "Yes", // Yes/No
+      "onpckg": "com.beautezssd23.ef5y"
+    },
+    {
+                       
       // Test Vtnm_Gabari
       
-      "id": "35",
+      "id": "37",
       "username": "com.TestTrgfFVYT4ZSs.testHGAa11t",
       "fabosapckgGH": "com.cosima.ryt3mus",
       "fabosabanio": "608050380060680_608052283393823",
@@ -934,7 +963,7 @@
                        
       // Test Ateca_Gabari
       
-      "id": "36",
+      "id": "38",
       "username": "com.atecaTestTrgfFVYT4ZSs.atecatestHGAa11t",
       "fabosapckgGH": "com.testoooSZSZ.szszryt3mus",
       "fabosabanio": "273961656915891_273961710249219",
