@@ -16,7 +16,8 @@
       "fabosapckgGH": "com.ImFANhihih.gbT2nchngnhT.TtDf3c",
       "fabosabanio": "FanBANNER1",
       "fabosaintras": "FanINTER1",
-      //NOT YET "CodVers": "3.5", 
+      "CodVers": "5", 
+      "FirstUpdtArchvGH": "Yes", // Yes/No
       "jumppckgGH": "com.jupmexample.jmpdhcp.jsontest", //old version
       "publGH": "pub-39402560example99942544", //old version
       "banio": "ca-app-pub-39402example", //old version
@@ -1157,14 +1158,13 @@
       //"fabosapckgGH": "com.musicops.vanillamusicdownload",
       //"fabosabanio": "1112158285641516_1140413462815998",
       //"fabosaintras": "1112158285641516_1116894585167886",
-
       "CodVers": "3.5", 
+      "FirstUpdtArchvGH": "Yes", // Yes/No
       "statu_Rndm_Adr_m_iod": "1",       
       "MxCtor": "1",
       //NOT YET "CotrrCodFl":["Dz","ma"], 
       //NOT YET "TpShwAd": "fl", 
       //NOT YET "CotrrAd":["es","ma"], 
-      "mobpubMediaGH": "6.2.0", //vrs SDK
       //Sqlite
       "AddoinasV2": [
                 {
