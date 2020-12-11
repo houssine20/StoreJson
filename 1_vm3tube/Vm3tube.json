@@ -879,6 +879,8 @@
       "fabosapckgGH": "com.haz.prayer", 
       "fabosabanio": "394730085062919_397495168119744",
       "fabosaintras": "394730085062919_397495481453046",
+      "NmVers": "4.0", 
+      "FirstUpdtArchvGH": "Yes", // Yes/No
       "statu_Rndm_Adr_m_iod": "0",       
       "MxCtor": "1",
       //Sqlite
