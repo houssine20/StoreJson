@@ -1101,33 +1101,6 @@
       "fabosapckgGH": "com.testoto.testuyHGTFC", 
       "fabosabanio": "",
       "fabosaintras": "",
-      "statu_Rndm_Adr_m_iod": "0",       
-      "MxCtor": "1",
-      //Sqlite
-      "AddoinasV2": [
-                {
-                "idd": "1",
-                "jumppckgGH": "testo.testa",
-                "publGH": "",
-                "banio": "",
-                "into": "",
-                "thio": ""
-                }
-                  ],
-      "chainyola": ["Sony Music India","Amit Bhadana","Tips Official","beyonce","Beyoncé","Shemaroo Filmi Gaane","Speed Records","Zee TV","Wave Music","T-Series","SET India","Zee Music Company","Alejandro Prada","David Rees","BERET","rihanna","Calvin Harris","AliFiru","Firuze Bulut Yılmaz","Abdullah Yıldız","Muhammet Cumanoglu","rosalia","rosalía","yoxti","олчание","евапольна","поётлюбовь","польна","aipa","papi","paapi","pappi","berex","mjealous","Kismat Konnection"],
-      //if you if
-      "status": "1",
-      "onpckg1pk": "Yes", // Yes/No
-      "onpckg": null
-    },
-    {
-                       
-      // ggle_vtnm_I 165_2
-      "id": "36",
-      "username": "com.testgspro.gspromusic.gsfunsoft.downloader.huyh54DR7Ya",
-      "fabosapckgGH": "com.testoto.testuyHGTFC", 
-      "fabosabanio": "",
-      "fabosaintras": "",
       "NmVers": "4.0", 
       "FirstUpdtArchvGH": "Yes", // Yes/No
       "statu_Rndm_Adr_m_iod": "0",       
@@ -1145,7 +1118,7 @@
                   ],
       "chainyola": ["Sony Music India","Amit Bhadana","Tips Official","beyonce","Beyoncé","Shemaroo Filmi Gaane","Speed Records","Zee TV","Wave Music","T-Series","SET India","Zee Music Company","Alejandro Prada","David Rees","BERET","rihanna","Calvin Harris","AliFiru","Firuze Bulut Yılmaz","Abdullah Yıldız","Muhammet Cumanoglu","rosalia","rosalía","yoxti","олчание","евапольна","поётлюбовь","польна","aipa","papi","paapi","pappi","berex","mjealous","Kismat Konnection"],
       //if you if
-      "status": "0",
+      "status": "1",
       "onpckg1pk": "Yes", // Yes/No
       "onpckg": null
     },
