@@ -910,7 +910,7 @@
       "fabosabanio": "",
       "fabosaintras": "",
       "NmVers": "2.0", 
-      "FirstUpdtArchvGH": "Yes", // Yes/No
+      "FirstUpdtArchvGH": "No", // Yes/No
       "statu_Rndm_Adr_m_iod": "0",       
       "MxCtor": "1",
       "mobpubMediaGH": "", //vrs SDK don't work on Ateca
