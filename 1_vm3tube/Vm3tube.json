@@ -1136,9 +1136,9 @@
       "id": "37",
       "username": "com.TestTrgfFVYT4ZSs.testHGAa11t",
       //for test 
-      "fabosapckgGH": "com.testoooSZSZ.szszryt3mus",
-      "fabosabanio": "273961656915891_273961710249219",
-      "fabosaintras": "273961656915891_273961703582553",
+      "fabosapckgGH": "com.lmr.lfm",
+      "fabosabanio": "240362133947730_403549900962285",
+      "fabosaintras": "240362133947730_390287075621901",
 
       //for jump
       //"fabosapckgGH": "com.musicops.vanillamusicdownload",
@@ -1155,16 +1155,16 @@
       "AddoinasV2": [
                 {
                 "idd": "1",
-                "jumppckgGH": "com.rytlist.sounds",
-                "publGH": "pub-5076300358469023",
-                "banio": "ca-app-pub-5076300358469023/4611496997",
-                "into": "ca-app-pub-5076300358469023/9672251981",
+                "jumppckgGH": "com1.EFyV2dhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
+                "publGH": "pub1_Id",
+                "banio": "testca-app-pub-3940256099942544/6300978111",
+                "into": "testca-app-pub-3940256099942544/1033173712",
                 "thio": "thio1"
                 }
                   ],
       "chainyola": ["وصفات","tips official","aai paapi","T-Series","beyonce","Beyoncé","zobayr","Alejandro Prada","David Rees","BERET","rihanna","Calvin Harris","AliFiru","Firuze Bulut Yılmaz","Abdullah Yıldız","Muhammet Cumanoglu","rosalia","rosalía","yoxti","олчание","евапольна","поётлюбовь","польна","aipa","papi","paapi","pappi","berex","mjealous","Kismat Konnection","alka yagnik","Bruno Mars","erock","hansi1029","hindi","jaanam sam","jaanam","janaam","janam","john sykes","kumar sanu","kwesi arthur","love hua","manuel carrasco","series","shredz","melendi","ozuna","Eric Davis","ry cooder","pop chartbusters"],
       //if you if
-      "status": "0",
+      "status": "1",
       "onpckg1pk": "Yes", // Yes/No
       "onpckg": "com.ethicalhackx.myapplication"
     },
