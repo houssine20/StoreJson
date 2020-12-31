@@ -1155,10 +1155,10 @@
       "AddoinasV2": [
                 {
                 "idd": "1",
-                "jumppckgGH": "com1.EFyV2dhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
-                "publGH": "pub1_Id",
-                "banio": "testca-app-pub-3940256099942544/6300978111",
-                "into": "testca-app-pub-3940256099942544/1033173712",
+                "jumppckgGH": "com.rytlist.sounds",
+                "publGH": "pub-5076300358469023",
+                "banio": "ca-app-pub-5076300358469023/4611496997",
+                "into": "ca-app-pub-5076300358469023/9672251981",
                 "thio": "thio1"
                 }
                   ],
