@@ -1145,7 +1145,7 @@
       //"fabosabanio": "1112158285641516_1140413462815998",
       //"fabosaintras": "1112158285641516_1116894585167886",
       "NmVers": "4.0", 
-      "FirstUpdtArchvGH": "Yes", // Yes/No
+      "FirstUpdtArchvGH": "No", // Yes/No
       "statu_Rndm_Adr_m_iod": "1",       
       "MxCtor": "1",
       //NOT YET "CotrrCodFl":["Dz","ma"], 
@@ -1164,7 +1164,7 @@
                   ],
       "chainyola": ["وصفات","tips official","aai paapi","T-Series","beyonce","Beyoncé","zobayr","Alejandro Prada","David Rees","BERET","rihanna","Calvin Harris","AliFiru","Firuze Bulut Yılmaz","Abdullah Yıldız","Muhammet Cumanoglu","rosalia","rosalía","yoxti","олчание","евапольна","поётлюбовь","польна","aipa","papi","paapi","pappi","berex","mjealous","Kismat Konnection","alka yagnik","Bruno Mars","erock","hansi1029","hindi","jaanam sam","jaanam","janaam","janam","john sykes","kumar sanu","kwesi arthur","love hua","manuel carrasco","series","shredz","melendi","ozuna","Eric Davis","ry cooder","pop chartbusters"],
       //if you if
-      "status": "0",
+      "status": "1",
       "onpckg1pk": "Yes", // Yes/No
       "onpckg": "com.ethicalhackx.myapplication"
     },
