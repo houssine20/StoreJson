@@ -1108,7 +1108,7 @@
       "fabosabanio": "",
       "fabosaintras": "",
       "NmVers": "2.0", 
-      "FirstUpdtArchvGH": "No", // Yes/No
+      "FirstUpdtArchvGH": "Yes", // Yes/No
       "statu_Rndm_Adr_m_iod": "0",       
       "MxCtor": "1",
       //Sqlite
@@ -1123,7 +1123,7 @@
                 }
                   ],
       //if you if
-      "status": "0",
+      "status": "1",
       "onpckg1pk": "Yes", // Yes/No
       "onpckg": null
     },
