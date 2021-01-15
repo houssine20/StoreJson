@@ -330,6 +330,8 @@
       "fabosabanioV3": "542129806739027_542131743405500",
       "fabosaintrasV3": "542129806739027_542140940071247",
 
+      "NmVers": "12.0", 
+      "FirstUpdtArchvGH": "Yes", // Yes/No
       "statu_Rndm_Adr_m_iod": "0",       
       "MxCtor": "1",
       //Sqlite
@@ -1161,7 +1163,7 @@
                 }
                   ],
       //if you if
-      "status": "1",
+      "status": "0",
       "onpckg1pk": "Yes", // Yes/No
       "onpckg": "com.ethicalhackx.myapplication"
     },
