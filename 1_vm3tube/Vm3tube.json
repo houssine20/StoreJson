@@ -917,6 +917,8 @@
       "fabosapckgGH": "com.quran.labs.androidquran", 
       "fabosabanio": "827619687724621_1003273540159234",
       "fabosaintras": "827619687724621_1003274463492475",
+      "NmVers": "4.0", 
+      "FirstUpdtArchvGH": "Yes", // Yes/No
       "statu_Rndm_Adr_m_iod": "0",       
       "MxCtor": "1",
       //Sqlite
