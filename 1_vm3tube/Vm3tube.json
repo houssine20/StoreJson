@@ -479,6 +479,8 @@
       "fabosapckgGH": "net.alkafeel.mcb",
       "fabosabanio": "1958833804258725_1976853535790085",
       "fabosaintras": "1958833804258725_1976853825790056",
+      "NmVers": "7.0", 
+      "FirstUpdtArchvGH": "Yes", // Yes/No
       "statu_Rndm_Adr_m_iod": "0",       
       "MxCtor": "1",
       //Sqlite
