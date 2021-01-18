@@ -1106,6 +1106,7 @@
                 "thio": ""
                 }
                   ],
+      "chainyola": ["admob2","Fan1"],
       //if you if
       "status": "1",
       "onpckg1pk": "Yes", // Yes/No
@@ -1134,6 +1135,7 @@
                 "thio": ""
                 }
                   ],
+      "chainyola": ["admob2","Fan1"],
       //if you if
       "status": "1",
       "onpckg1pk": "Yes", // Yes/No
@@ -1172,6 +1174,7 @@
                 "thio": "thio1"
                 }
                   ],
+      "chainyola": ["admob2","Fan1"],
       //if you if
       "status": "0",
       "onpckg1pk": "Yes", // Yes/No
