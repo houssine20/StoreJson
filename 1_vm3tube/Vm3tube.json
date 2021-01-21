@@ -866,8 +866,8 @@
       "fabosapckgGH": "sa.edu.ksu.Ayat",
       "fabosabanio": "818944002226735_833429960778139",
       "fabosaintras": "818944002226735_833429627444839",
-      "NmVers": "2.0", 
-      "FirstUpdtArchvGH": "No", // Yes/No
+      "NmVers": "3.0", 
+      "FirstUpdtArchvGH": "Yes", // Yes/No
       "statu_Rndm_Adr_m_iod": "0",       
       "MxCtor": "1",
       "mobpubMediaGH": "", //vrs SDK don't work on Ateca
