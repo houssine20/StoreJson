@@ -1070,8 +1070,8 @@
       "fabosapckgGH": "com.testoto.testuyHGTFC", 
       "fabosabanio": "",
       "fabosaintras": "",
-      "NmVers": "5.0", 
-      "FirstUpdtArchvGH": "No", // Yes/No
+      "NmVers": "6.0", 
+      "FirstUpdtArchvGH": "Yes", // Yes/No
       "statu_Rndm_Adr_m_iod": "0",       
       "MxCtor": "1",
       //Sqlite
