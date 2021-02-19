@@ -333,7 +333,7 @@
       "fabosaintrasV3": "542129806739027_542140940071247",
 
       "NmVers": "12.0", 
-      "FirstUpdtArchvGH": "Yes", // Yes/No
+      "FirstUpdtArchvGH": "No", // Yes/No
       "statu_Rndm_Adr_m_iod": "0",       
       "MxCtor": "1",
       //Sqlite
