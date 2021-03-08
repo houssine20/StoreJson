@@ -482,7 +482,7 @@
       "fabosabanio": "1958833804258725_1976853535790085",
       "fabosaintras": "1958833804258725_1976853825790056",
       "NmVers": "7.0", 
-      "FirstUpdtArchvGH": "Yes", // Yes/No
+      "FirstUpdtArchvGH": "No", // Yes/No
       "statu_Rndm_Adr_m_iod": "0",       
       "MxCtor": "1",
       //Sqlite
@@ -496,7 +496,7 @@
                 "thio": ""
                 }
                   ],
-      "chainyola": ["Sony Music India","Amit Bhadana","Tips Official","beyonce","Beyoncé","Shemaroo Filmi Gaane","Speed Records","Zee TV","Wave Music","T-Series","SET India","Zee Music Company","Alejandro Prada","David Rees","BERET","rihanna","Calvin Harris","AliFiru","Firuze Bulut Yılmaz","Abdullah Yıldız","Muhammet Cumanoglu","rosalia","rosalía","yoxti","олчание","евапольна","поётлюбовь","польна","aipa","papi","paapi","pappi","berex","mjealous","Kismat Konnection","alka yagnik","Bruno Mars","erock","hansi1029","hindi","jaanam sam","jaanam","janaam","janam","john sykes","kumar sanu","kwesi arthur","love hua","manuel carrasco","series","shredz","melendi","ozuna","Eric Davis","ry cooder","pop chartbusters"],
+      "chainyola": ["admob2","Fan1"],
       //if you if
       "status": "1",
       "onpckg1pk": "No", // Yes/No
