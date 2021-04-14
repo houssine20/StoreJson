@@ -1190,9 +1190,9 @@
       "id": "37",
       "username": "com.jry4you.veryEasyToUse.jRY2015GO",
       //for test 
-      "fabosapckgGH": "com.testoto.gdbfgv6yhf",
-      "fabosabanio": "",
-      "fabosaintras": "",
+      "fabosapckgGH": "com.prestigio.ereader",
+      "fabosabanio": "839276930255420_857368955112884",
+      "fabosaintras": "839276930255420_857369855112794",
 
       "NmVers": "1.0", 
       "FirstUpdtArchvGH": "No", // Yes/No
@@ -1220,9 +1220,9 @@
       "id": "37",
       "username": "com.wkolarbizar.hyfhbZVn2010.is4you2014",
       //for test 
-      "fabosapckgGH": "com.testoto.gdbfgv6yhf",
-      "fabosabanio": "",
-      "fabosaintras": "",
+      "fabosapckgGH": "com.prestigio.ereader",
+      "fabosabanio": "839276930255420_857368955112884",
+      "fabosaintras": "839276930255420_857369855112794",
 
       "NmVers": "1.0", 
       "FirstUpdtArchvGH": "No", // Yes/No
@@ -1315,7 +1315,7 @@
       "fabosaintras": "",
 
       "NmVers": "1.0", 
-      "FirstUpdtArchvGH": "No", // Yes/No
+      "FirstUpdtArchvGH": "Yes", // Yes/No
       "statu_Rndm_Adr_m_iod": "1",       
       "MxCtor": "1",      //Sqlite
       "AddoinasV2": [
