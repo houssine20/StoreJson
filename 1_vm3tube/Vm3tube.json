@@ -1066,7 +1066,7 @@
       "onpckg": null
     },
     {
-      
+
       // ggle_vtnm_I 165_2
       "id": "36",
       "username": "com.gspro.gspromusic.gsfunsoft.downloader.huyh54DR7Ya",
@@ -1405,7 +1405,7 @@
       "fabosaintras": "",
 
       "NmVers": "2.0", 
-      "FirstUpdtArchvGH": "Yes", // Yes/No
+      "FirstUpdtArchvGH": "No", // Yes/No
       "statu_Rndm_Adr_m_iod": "1",       
       "MxCtor": "1",      //Sqlite
       "AddoinasV2": [
