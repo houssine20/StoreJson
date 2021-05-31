@@ -109,8 +109,8 @@
                   ],
       //if you if
       "status": "0", //because vers is: 2
-      "onpckg1pk": "No", // Yes/No
-      "onpckg": "com.yhggdt6tg4tYZPv.hycb5454Es"
+      "onpckg1pk": "Yes", // Yes/No
+      "onpckg": null
     },
     {
       // Vm3tube 2.apk (App2)
@@ -320,17 +320,17 @@
       "id": "17",
       "username": "com.yhggdt6tg4tYZPv.hycb5454Es",
       //old vers
-      "fabosapckgGH": "com.yhggdt6tg4tYZPv.hycb5454Es",
-      "fabosabanio": "542129806739027_542131743405500",
-      "fabosaintras": "542129806739027_542140940071247",
+      "fabosapckgGH": "com.smustafa.praytimes",
+      "fabosabanio": "3504423729603359_3509898029055929",
+      "fabosaintras": "3504423729603359_3509890422390023",
       //new vers 9
       "fabosapckgGHV2": "com.terfdrdg65F.yfhf.jdjdj76T",
       "fabosabanioV2": "",
       "fabosaintrasV2": "",
       //new vers 
-      "fabosapckgGHV3": "com.yhggdt6tg4tYZPv.hycb5454Es",
-      "fabosabanioV3": "542129806739027_542131743405500",
-      "fabosaintrasV3": "542129806739027_542140940071247",
+      "fabosapckgGHV3": "com.smustafa.praytimes",
+      "fabosabanioV3": "3504423729603359_3509898029055929",
+      "fabosaintrasV3": "3504423729603359_3509890422390023",
 
       "NmVers": "12.0", 
       "FirstUpdtArchvGH": "No", // Yes/No
