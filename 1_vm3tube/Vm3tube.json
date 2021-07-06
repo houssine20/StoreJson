@@ -1425,16 +1425,16 @@
       "onpckg": "com.ttotot"
     },
     {                       
-      // ggle_vtnm_I 180
+      // ggle_vtnm_I 181
       
       "id": "37",
-      "username": "com.jjhfytg5RDFfsg.vgfTRGFRS2012",
+      "username": "com.violariTozzFinossKJkJ6FSGk.ijKBH62d",
       //for test 
-      "fabosapckgGH": "",
+      "fabosapckgGH": "com.violariTozzFinossKJkJ6FSGk.ijKBH62d",
       "fabosabanio": "",
       "fabosaintras": "",
 
-      "NmVers": "2.0", 
+      "NmVers": "1.0", 
       "FirstUpdtArchvGH": "Yes", // Yes/No
       "statu_Rndm_Adr_m_iod": "1",       
       "MxCtor": "1",      //Sqlite
@@ -1450,7 +1450,7 @@
                   ],
       "chainyola": ["admob2","Fan1"],
       //if you if
-      "status": "1",
+      "status": "0",
       "onpckg1pk": "Yes", // Yes/No
       "onpckg": "com.ttotot"
     },
