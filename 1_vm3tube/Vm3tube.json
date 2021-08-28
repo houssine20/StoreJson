@@ -135,7 +135,7 @@
                   ],
       "chainyola": ["testofiltra1","testofiltra2"],
       //if you if
-      "status": "1", 
+      "status": "0", 
       "onpckg1pk": "Yes", // Yes/No
       "onpckg": null
     },
