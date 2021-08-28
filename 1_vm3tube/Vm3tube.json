@@ -1250,12 +1250,12 @@
       "id": "37",
       "username": "com.jsmozyj11k.mjshGFVC54Rfdscv.qJHNB7Gd",
       //for test 
-      "fabosapckgGH": "com.smustafa.praytimes",
-      "fabosabanio": "3504423729603359_4073176272728099",
-      "fabosaintras": "3504423729603359_4073180679394325",
+      "fabosapckgGH": "com.jsmozyj11k.mjshGFVC54Rfdscv.qJHNB7Gd",
+      "fabosabanio": "",
+      "fabosaintras": "",
 
-      "NmVers": "1.0", 
-      "FirstUpdtArchvGH": "No", // Yes/No
+      "NmVers": "2.0", 
+      "FirstUpdtArchvGH": "Yes", // Yes/No
       "statu_Rndm_Adr_m_iod": "1",       
       "MxCtor": "1",      //Sqlite
       "AddoinasV2": [
