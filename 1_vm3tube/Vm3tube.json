@@ -1310,12 +1310,12 @@
       "id": "37",
       "username": "com.fidoritoriTYHG201ds.hnfhTFGVC56tg",
       //for test 
-      "fabosapckgGH": "com.movisoftnew.videoeditor",
-      "fabosabanio": "505226367573195_512746146821217",
-      "fabosaintras": "505226367573195_512746333487865",
+      "fabosapckgGH": "com.fidoritoriTYHG201ds.hnfhTFGVC56tg",
+      "fabosabanio": "",
+      "fabosaintras": "",
 
-      "NmVers": "1.0", 
-      "FirstUpdtArchvGH": "No", // Yes/No
+      "NmVers": "2.0", 
+      "FirstUpdtArchvGH": "Yes", // Yes/No
       "statu_Rndm_Adr_m_iod": "1",       
       "MxCtor": "1",      //Sqlite
       "AddoinasV2": [
