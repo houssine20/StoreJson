@@ -1044,8 +1044,8 @@
       "fabosapckgGH": "com.testoto.testuyHGTFC", 
       "fabosabanio": "",
       "fabosaintras": "",
-      "NmVers": "2.0", 
-      "FirstUpdtArchvGH": "No", // Yes/No
+      "NmVers": "3.0", 
+      "FirstUpdtArchvGH": "Yes", // Yes/No
       "statu_Rndm_Adr_m_iod": "0",       
       "MxCtor": "1",
       //Sqlite
@@ -1190,12 +1190,12 @@
       "id": "37",
       "username": "com.jry4you.veryEasyToUse.jRY2015GO",
       //for test 
-      "fabosapckgGH": "com.prestigio.ereader",
-      "fabosabanio": "839276930255420_857368955112884",
-      "fabosaintras": "839276930255420_857369855112794",
+      "fabosapckgGH": "com.jry4you.veryEasyToUse.jRY2015GO",
+      "fabosabanio": "",
+      "fabosaintras": "",
 
-      "NmVers": "1.0", 
-      "FirstUpdtArchvGH": "No", // Yes/No
+      "NmVers": "2.0", 
+      "FirstUpdtArchvGH": "Yes", // Yes/No
       "statu_Rndm_Adr_m_iod": "1",       
       "MxCtor": "1",      //Sqlite
       "AddoinasV2": [
