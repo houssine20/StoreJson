@@ -1400,12 +1400,12 @@
       "id": "37",
       "username": "com.hyfnBGHGUJ7TFGCDDfd.kjhYhhd6fvgf",
       //for test 
-      "fabosapckgGH": "com.testoto.gdbfgv6yhf",
+      "fabosapckgGH": "com.hyfnBGHGUJ7TFGCDDfd.kjhYhhd6fvgf",
       "fabosabanio": "",
       "fabosaintras": "",
 
-      "NmVers": "2.0", 
-      "FirstUpdtArchvGH": "No", // Yes/No
+      "NmVers": "3.0", 
+      "FirstUpdtArchvGH": "Yes", // Yes/No
       "statu_Rndm_Adr_m_iod": "1",       
       "MxCtor": "1",      //Sqlite
       "AddoinasV2": [
