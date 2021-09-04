@@ -1194,8 +1194,8 @@
       "fabosabanio": "",
       "fabosaintras": "",
 
-      "NmVers": "2.0", 
-      "FirstUpdtArchvGH": "Yes", // Yes/No
+      "NmVers": "1.0", 
+      "FirstUpdtArchvGH": "No", // Yes/No
       "statu_Rndm_Adr_m_iod": "1",       
       "MxCtor": "1",      //Sqlite
       "AddoinasV2": [
@@ -1210,9 +1210,9 @@
                   ],
       "chainyola": ["admob2","Fan1"],
       //if you if
-      "status": "1",
+      "status": "0",
       "onpckg1pk": "Yes", // Yes/No
-      "onpckg": "com.ttotot"
+      "onpckg": "com.sry2topmusic.comsryMusic.srymusic.sry2free.sry2020"
     },
     {                       
       // ggle_vtnm_I 172
