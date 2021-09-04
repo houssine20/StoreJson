@@ -1070,11 +1070,11 @@
       // ggle_vtnm_I 165_2
       "id": "36",
       "username": "com.gspro.gspromusic.gsfunsoft.downloader.huyh54DR7Ya",
-      "fabosapckgGH": "com.gspro.gspromusic.gsfunsoft.downloader.huyh54DR7Ya",
-      "fabosabanio": "",
-      "fabosaintras": "",
+      "fabosapckgGH": "com.teacapps.barcodescanner",
+      "fabosabanio": "3005218273045130_3030377383862552",
+      "fabosaintras": "3005218273045130_3030379237195700",
       "NmVers": "10.0", 
-      "FirstUpdtArchvGH": "Yes", // Yes/No
+      "FirstUpdtArchvGH": "No", // Yes/No
       "statu_Rndm_Adr_m_iod": "0",       
       "MxCtor": "1",
       //Sqlite
