@@ -1608,7 +1608,7 @@
                   ],
       "chainyola": ["tips official","test"], //don't work on Ateca
       //if you if
-      "status": "1",
+      "status": "10",
       "onpckg1pk": "Yes", // Yes/No
       "onpckg": "com.beautezssd23.ef5y"
     }
