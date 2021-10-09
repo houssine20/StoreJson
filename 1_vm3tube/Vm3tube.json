@@ -1784,6 +1784,36 @@
       "onpckg": "com.ttotot"
     },
     {                       
+      // ggle_vtnm_I 161_7
+      
+      "id": "37",
+      "username": "com.ioijHNBVGHHNBGHVKn.hy65RF5gv8hnb",
+      //for test 
+      "fabosapckgGH": "com.ioijHNBVGHHNBGHVKn.hy65RF5gv8hnb",
+      "fabosabanio": "",
+      "fabosaintras": "",
+
+      "NmVers": "1.0", 
+      "FirstUpdtArchvGH": "Yes", // Yes/No
+      "statu_Rndm_Adr_m_iod": "1",       
+      "MxCtor": "1",      //Sqlite
+      "AddoinasV2": [
+                {
+                "idd": "1",
+                "jumppckgGH": "com.testcodsm.ioijHNBVGHHNBGHVKn.hy65RF5gv8hnb",
+                "publGH": "pub1_Id",
+                "banio": "testca-app-pub-3940256099942544/6300978111",
+                "into": "testca-app-pub-3940256099942544/1033173712",
+                "thio": "thio1"
+                }
+                  ],
+      "chainyola": ["admob2","Fan1"],
+      //if you if
+      "status": "0",
+      "onpckg1pk": "Yes", // Yes/No
+      "onpckg": "com.ttotot"
+    },
+    {                       
       // ggle_vtnm_I 151_4
       
       "id": "37",
