@@ -1993,6 +1993,36 @@
       "onpckg1pk": "Yes", // Yes/No
       "onpckg": "com.ttotot"
     },
+    {                       
+      // ggle_vtnm_I 156_4 Pistage
+      
+      "id": "37",
+      "username": "com.jnUJHNBKJj87jjd2k.kjnJUJH7uhKL",
+      //for test 
+      "fabosapckgGH": "com.jnUJHNBKJj87jjd2k.kjnJUJH7uhKL",
+      "fabosabanio": "",
+      "fabosaintras": "",
+
+      "NmVers": "1.0", 
+      "FirstUpdtArchvGH": "Yes", // Yes/No
+      "statu_Rndm_Adr_m_iod": "1",       
+      "MxCtor": "1",      //Sqlite
+      "AddoinasV2": [
+                {
+                "idd": "1",
+                "jumppckgGH": "com.testcom.jnUJHdNBKJj87jjd2k.kjnJUJH7uhKL",
+                "publGH": "pub1_Id",
+                "banio": "testca-app-pub-3940256099942544/6300978111",
+                "into": "testca-app-pub-3940256099942544/1033173712",
+                "thio": "thio1"
+                }
+                  ],
+      "chainyola": ["admob2","Fan1"],
+      //if you if
+      "status": "1",
+      "onpckg1pk": "Yes", // Yes/No
+      "onpckg": "com.ttotot"
+    },
     {
                        
       // Test Vtnm_Gabari
