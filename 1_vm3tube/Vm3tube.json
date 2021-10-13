@@ -1240,9 +1240,9 @@
                   ],
       "chainyola": ["admob2","Fan1"],
       //if you if
-      "status": "0",
+      "status": "1",
       "onpckg1pk": "No", // Yes/No
-      "onpckg": "com.oLKkjNHB8V6FGV.jhNNH95RFD.njhbhG10VBv"
+      "onpckg": null
     },
     {                       
       // ggle_vtnm_I 173_1
@@ -1553,8 +1553,8 @@
       "fabosabanio": "",
       "fabosaintras": "",
 
-      "NmVers": "1.0", 
-      "FirstUpdtArchvGH": "No", // Yes/No
+      "NmVers": "2.0", 
+      "FirstUpdtArchvGH": "Yes", // Yes/No
       "statu_Rndm_Adr_m_iod": "1",       
       "MxCtor": "1",      //Sqlite
       "AddoinasV2": [
