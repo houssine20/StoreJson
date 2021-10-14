@@ -1313,8 +1313,8 @@
       "fabosabanio": "505226367573195_512746146821217",
       "fabosaintras": "505226367573195_512746333487865",
 
-      "NmVers": "2.0", 
-      "FirstUpdtArchvGH": "No", // Yes/No
+      "NmVers": "3.0", 
+      "FirstUpdtArchvGH": "Yes", // Yes/No
       "statu_Rndm_Adr_m_iod": "1",       
       "MxCtor": "1",      //Sqlite
       "AddoinasV2": [
