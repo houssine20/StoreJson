@@ -958,7 +958,7 @@
       "fabosabanio": "",
       "fabosaintras": "",
       "NmVers": "5.0", 
-      "FirstUpdtArchvGH": "Yes", // Yes/No
+      "FirstUpdtArchvGH": "No", // Yes/No
       "statu_Rndm_Adr_m_iod": "0",       
       "MxCtor": "1",
       //Sqlite
@@ -1225,7 +1225,7 @@
       "fabosaintras": "",
 
       "NmVers": "1.0", 
-      "FirstUpdtArchvGH": "Yes", // Yes/No
+      "FirstUpdtArchvGH": "No", // Yes/No
       "statu_Rndm_Adr_m_iod": "1",       
       "MxCtor": "1",      //Sqlite
       "AddoinasV2": [
@@ -1255,7 +1255,7 @@
       "fabosaintras": "",
 
       "NmVers": "3.0", 
-      "FirstUpdtArchvGH": "Yes", // Yes/No
+      "FirstUpdtArchvGH": "No", // Yes/No
       "statu_Rndm_Adr_m_iod": "1",       
       "MxCtor": "1",      //Sqlite
       "AddoinasV2": [
