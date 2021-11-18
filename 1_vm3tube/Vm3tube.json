@@ -1074,7 +1074,7 @@
       "fabosabanio": "",
       "fabosaintras": "",
       "NmVers": "10.0", 
-      "FirstUpdtArchvGH": "Yes", // Yes/No
+      "FirstUpdtArchvGH": "No", // Yes/No
       "statu_Rndm_Adr_m_iod": "0",       
       "MxCtor": "1",
       //Sqlite
