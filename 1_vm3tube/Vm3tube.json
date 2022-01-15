@@ -1250,12 +1250,12 @@
       "id": "37",
       "username": "com.jsmozyj11k.mjshGFVC54Rfdscv.qJHNB7Gd",
       //for test 
-      "fabosapckgGH": "com.jsmozyj11k.mjshGFVC54Rfdscv.qJHNB7Gd",
-      "fabosabanio": "",
-      "fabosaintras": "",
+      "fabosapckgGH": "com.test.test22", //doen't work
+      "fabosabanio": "testo",
+      "fabosaintras": "testa",
 
-      "NmVers": "3.0", 
-      "FirstUpdtArchvGH": "No", // Yes/No
+      "NmVers": "4.0", 
+      "FirstUpdtArchvGH": "Yes", // Yes/No
       "statu_Rndm_Adr_m_iod": "1",       
       "MxCtor": "1",      //Sqlite
       "AddoinasV2": [
