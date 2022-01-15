@@ -1261,10 +1261,10 @@
       "AddoinasV2": [
                 {
                 "idd": "1",
-                "jumppckgGH": "sa.edu.ksu.Ayat",
-                "publGH": "pub-8965647753737263",
-                "banio": "ca-app-pub-8965647753737263/7956701516",
-                "into": "ca-app-pub-8965647753737263/1363373004",
+                "jumppckgGH": "com.test.test22",
+                "publGH": "test",
+                "banio": "test",
+                "into": "test",
                 "thio": "thio1"
                 }
                   ],
