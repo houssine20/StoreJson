@@ -652,10 +652,10 @@
       "AddoinasV2": [
                 {
                 "idd": "1",
-                "jumppckgGH": "net.alkafeel.mcb",
-                "publGH": "pub-4363627429782186",
-                "banio": "ca-app-pub-4363627429782186/1218969633",
-                "into": "ca-app-pub-4363627429782186/9097459657",
+                "jumppckgGH": "test.test",
+                "publGH": "test",
+                "banio": "test",
+                "into": "test",
                 "thio": ""
                 }
                   ],
