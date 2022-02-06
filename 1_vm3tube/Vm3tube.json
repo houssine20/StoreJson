@@ -2309,16 +2309,22 @@
     },
     {
                        
-      // Test Ateca_Gibari
+      // Test Applovin2
       
-      "id": "38",
-      "username": "com.atecaTestTrgfFVYT4ZSs.atecatestHGAa11t",
-      "fabosapckgGH": "com.testoooSZSZ.szszryt3mus",
-      "fabosabanio": "273961656915891_273961710249219",
-      "fabosaintras": "273961656915891_273961703582553",
+      "id": "37",
+      "username": "com.example.nativveadss",
+      //for test 
+      "fabosapckgGH": "Testo.test",  //don't Work
+      "fabosabanio": "b80c84036176a7b0",
+      "fabosaintras": "9ffd0c96c1be533e",
+
+      "NmVers": "4.4", 
+      "FirstUpdtArchvGH": "No", // Yes/No
       "statu_Rndm_Adr_m_iod": "1",       
       "MxCtor": "1",
-      "mobpubMediaGH": "", //vrs SDK don't work on Ateca
+      //NOT YET "CotrrCodFl":["Dz","ma"], 
+      //NOT YET "TpShwAd": "fl", 
+      //NOT YET "CotrrAd":["es","ma"], 
       //Sqlite
       "AddoinasV2": [
                 {
@@ -2330,11 +2336,11 @@
                 "thio": "thio1"
                 }
                   ],
-      "chainyola": ["tips official","test"], //don't work on Ateca
+      "chainyola": ["admob2","Fan1"],
       //if you if
-      "status": "0",
-      "onpckg1pk": "Yes", // Yes/No
-      "onpckg": "com.beautezssd23.ef5y"
+      "status": "1",
+      "onpckg1pk": "No", // Yes/No
+      "onpckg": "com.ethicalhackx.myapplication"
     }
   ]
 }
