@@ -2309,6 +2309,41 @@
     },
     {
                        
+      // Test2 Applovin
+      
+      "id": "37",
+      "username": "com.studyTesto201.m.html",
+      //for test 
+      "fabosapckgGH": "Testo.test",  //don't Work
+      "fabosabanio": "b80c84036176a7b0",
+      "fabosaintras": "9ffd0c96c1be533e",
+
+      "NmVers": "4.4", 
+      "FirstUpdtArchvGH": "No", // Yes/No
+      "statu_Rndm_Adr_m_iod": "1",       
+      "MxCtor": "1",
+      //NOT YET "CotrrCodFl":["Dz","ma"], 
+      //NOT YET "TpShwAd": "fl", 
+      //NOT YET "CotrrAd":["es","ma"], 
+      //Sqlite
+      "AddoinasV2": [
+                {
+                "idd": "1",
+                "jumppckgGH": "com1.EFyV2dhdyGjU4YH8Ysh.ZZYkjdYoUJ.okifhj",
+                "publGH": "pub1_Id",
+                "banio": "testca-app-pub-3940256099942544/6300978111",
+                "into": "testca-app-pub-3940256099942544/1033173712",
+                "thio": "thio1"
+                }
+                  ],
+      "chainyola": ["admob2","Fan1"],
+      //if you if
+      "status": "1",
+      "onpckg1pk": "No", // Yes/No
+      "onpckg": "com.ethicalhackx.myapplication"
+    },
+    {
+                       
       // Test Applovin2
       
       "id": "37",
