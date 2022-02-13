@@ -14,10 +14,12 @@
 
       "id": "2",
       "username": "com.example.dhcp.jsontest",
+
       "fabosapckgGH": "com.ImFANhihih.gbT2nchngnhT.TtDf3c",
+      "lovinKey": "Applovin_SDK_Key_DHCP_example",
       "fabosabanio": "FanBANNER1",
       "fabosaintras": "FanINTER1",
-      "lovinKey": "Applovin_SDK_Key_DHCP_example",
+
       "NmVers": "6.0", 
       "FirstUpdtArchvGH": "Yes", // Yes/No
       "jumppckgGH": "com.jupmexample.jmpdhcp.jsontest", //old version
@@ -2242,6 +2244,7 @@
       "username": "com.TestTrgfFVYT4ZSs.testHGAa11t",
       //for test 
       "fabosapckgGH": "com.musicops.vanillamusicdownload",
+      "lovinKey": "Applovin_SDK_Key_DHCP_example",
       "fabosabanio": "test",
       "fabosaintras": "test",
 
@@ -2316,8 +2319,9 @@
       
       "id": "37",
       "username": "com.studyTesto201.m.html",
-      //for test 
-      "fabosapckgGH": "Testo.test",  //don't Work
+      
+      "fabosapckgGH": "Testo.test",
+      "lovinKey": "Applovin_SDK_Key_DHCP_example",
       "fabosabanio": "b80c84036176a7b0",
       "fabosaintras": "9ffd0c96c1be533e",
 
