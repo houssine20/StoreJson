@@ -2278,13 +2278,14 @@
     },
     {
                        
-      // Test Applovin
+      // Test2 Applovin_Gabari2
       
       "id": "37",
-      "username": "com.study.m.html",
-      //for test 
-      "fabosapckgGH": "Testo.test",  //don't Work
-      "fabosabanio": "b80c84036176a7b0",
+      "username": "com.studyTesto201.m.html",
+      
+      "fabosapckgGH": "com.study.m.html",
+      "lovinKey": "KefFHOruFV3Tl-TD8IHNFBhQhtBRA9Hx_VNNp1AHASCNDtkbD0Xcrae18afobDDgd5_uI0DcRRg0LaydTr3SNy",
+      "fabosabanio": "",
       "fabosaintras": "9ffd0c96c1be533e",
 
       "NmVers": "4.4", 
@@ -2307,20 +2308,19 @@
                   ],
       "chainyola": ["admob2","Fan1"],
       //if you if
-      "status": "1",
+      "status": "0",
       "onpckg1pk": "No", // Yes/No
       "onpckg": "com.ethicalhackx.myapplication"
     },
     {
                        
-      // Test2 Applovin
+      // Test Applovin
       
       "id": "37",
-      "username": "com.studyTesto201.m.html",
-      
-      "fabosapckgGH": "com.study.m.html",
-      "lovinKey": "KefFHOruFV3Tl-TD8IHNFBhQhtBRA9Hx_VNNp1AHASCNDtkbD0Xcrae18afobDDgd5_uI0DcRRg0LaydTr3SNy",
-      "fabosabanio": "",
+      "username": "com.study.m.html",
+      //for test 
+      "fabosapckgGH": "Testo.test",  //don't Work
+      "fabosabanio": "b80c84036176a7b0",
       "fabosaintras": "9ffd0c96c1be533e",
 
       "NmVers": "4.4", 
