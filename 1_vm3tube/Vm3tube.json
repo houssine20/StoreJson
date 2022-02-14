@@ -1461,13 +1461,14 @@
       
       "id": "37",
       "username": "com.bleukjhn7UHJN.shfgBV56tgfd12.azs8YGHNB",
-      //for test 
-      "fabosapckgGH": "com.bleukjhn7UHJN.shfgBV56tgfd12.azs8YGHNB",
-      "fabosabanio": "934547217433977_937200987168600",
-      "fabosaintras": "934547217433977_937201540501878",
 
-      "NmVers": "2.0", 
-      "FirstUpdtArchvGH": "No", // Yes/No
+      "fabosapckgGH": "com.testRFD.testHHTjn",
+      "lovinKey": "sddsd",
+      "fabosabanio": "",
+      "fabosaintras": "",
+
+      "NmVers": "3.0", 
+      "FirstUpdtArchvGH": "Yes", // Yes/No
       "statu_Rndm_Adr_m_iod": "1",       
       "MxCtor": "1",      //Sqlite
       "AddoinasV2": [
@@ -1483,7 +1484,7 @@
       "chainyola": ["admob2","Fan1"],
       //if you if
       "status": "1",
-      "onpckg1pk": "Yes", // Yes/No
+      "onpckg1pk": "No", // Yes/No
       "onpckg": "com.ttotot"
     },
     {                       
