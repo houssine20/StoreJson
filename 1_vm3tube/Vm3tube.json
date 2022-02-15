@@ -119,9 +119,12 @@
       // Vm3tube 2.apk (App2)
       "id": "8",
       "username": "comapp2.app2GogoGTfv55g.app2hnb76okj",
-      "fabosapckgGH": "com.smustafa.praytimes",
-      "fabosabanio": "3504423729603359_3509898029055929",
-      "fabosaintras": "3504423729603359_3509890422390023",
+
+      "fabosapckgGH": "com.test2022",
+      "lovinKey": "test",
+      "fabosabanio": "",
+      "fabosaintras": "",
+
       "NmVers": "4.0", //dont wrk on 2apk
       "FirstUpdtArchvGH": "No", //dont wrk on 2apk
       "statu_Rndm_Adr_m_iod": "0", 
