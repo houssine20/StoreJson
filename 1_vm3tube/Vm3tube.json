@@ -111,8 +111,8 @@
                 }
                   ],
       //if you if
-      "status": "0", //because vers is: 2
-      "onpckg1pk": "Yes", // Yes/No
+      "status": "1", //because vers is: 2
+      "onpckg1pk": "No", // Yes/No
       "onpckg": null
     },
     {
@@ -138,8 +138,8 @@
                   ],
       "chainyola": ["testofiltra1","testofiltra2"],
       //if you if
-      "status": "0", 
-      "onpckg1pk": "Yes", // Yes/No
+      "status": "1", 
+      "onpckg1pk": "No", // Yes/No
       "onpckg": null
     },
     {
