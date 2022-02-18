@@ -1470,7 +1470,7 @@
       "fabosabanio": "",
       "fabosaintras": "",
 
-      "NmVers": "4.0", 
+      "NmVers": "3.0", 
       "FirstUpdtArchvGH": "Yes", // Yes/No
       "statu_Rndm_Adr_m_iod": "1",       
       "MxCtor": "1",      //Sqlite
@@ -2241,9 +2241,9 @@
       "onpckg": "com.ttotot"
     },
     {
-                       
-      // ggle_vtnm_I toto1
-      
+    
+      // ggle_vtnm_I 278 toto
+    
       "id": "37",
       "username": "com.hy65RFGFcfv.jnhbGF56fvNhg",
       
