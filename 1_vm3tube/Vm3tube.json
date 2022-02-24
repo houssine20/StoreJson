@@ -2257,10 +2257,7 @@
 
       "statu_Rndm_Adr_m_iod": "1",       
       "MxCtor": "1",
-      //NOT YET "CotrrCodFl":["Dz","ma"], 
-      //NOT YET "TpShwAd": "fl", 
-      //NOT YET "CotrrAd":["es","ma"], 
-      //Sqlite
+
       "AddoinasV2": [
                 {
                 "idd": "1",
@@ -2294,10 +2291,7 @@
 
       "statu_Rndm_Adr_m_iod": "1",       
       "MxCtor": "1",
-      //NOT YET "CotrrCodFl":["Dz","ma"], 
-      //NOT YET "TpShwAd": "fl", 
-      //NOT YET "CotrrAd":["es","ma"], 
-      //Sqlite
+
       "AddoinasV2": [
                 {
                 "idd": "1",
@@ -2331,10 +2325,7 @@
 
       "statu_Rndm_Adr_m_iod": "1",       
       "MxCtor": "1",
-      //NOT YET "CotrrCodFl":["Dz","ma"], 
-      //NOT YET "TpShwAd": "fl", 
-      //NOT YET "CotrrAd":["es","ma"], 
-      //Sqlite
+
       "AddoinasV2": [
                 {
                 "idd": "1",
@@ -2348,6 +2339,40 @@
       "chainyola": ["admob2","Fan1"],
       //if you if
       "status": "1",
+      "onpckg1pk": "No", // Yes/No
+      "onpckg": null
+    },
+    {
+    
+      // ggle_vtnm_I 282 toto
+    
+      "id": "37",
+      "username": "com.jh76TgfdFDCvc.hgBVFG54EDff",
+      
+      "fabosapckgGH": "com.testgg",
+      "lovinKey": "test",
+      "fabosabanio": "",
+      "fabosaintras": "",
+
+      "NmVers": "1.0", 
+      "FirstUpdtArchvGH": "Yes", // Yes/No
+
+      "statu_Rndm_Adr_m_iod": "1",       
+      "MxCtor": "1",
+
+      "AddoinasV2": [
+                {
+                "idd": "1",
+                "jumppckgGH": "com.jh76TgfdFDCvc.hgBVFG54EDff",
+                "publGH": "pub1_Id",
+                "banio": "testca-app-pub-3940256099942544/6300978111",
+                "into": "testca-app-pub-3940256099942544/1033173712",
+                "thio": "thio1"
+                }
+                  ],
+      "chainyola": ["admob2","Fan1"],
+      //if you if
+      "status": "0",
       "onpckg1pk": "No", // Yes/No
       "onpckg": null
     },
