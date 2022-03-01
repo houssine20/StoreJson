@@ -2523,12 +2523,13 @@
     },
     {
                        
-      // Test Applovin2
+       // Test Applovin2
       
       "id": "37",
       "username": "com.example.nativveadss",
-      //for test 
-      "fabosapckgGH": "Testo.test",  //don't Work
+      
+      "fabosapckgGH": "com.example.nativveadss",
+      "lovinKey": "-TSAkJFAOAGrivmhQanmeRfPAzdb2-_q_s65D4ChEc72MrXdzuMkI2hrResIS9ON2LWHr0NuFIwksXoVvhbKU6",
       "fabosabanio": "de2c4b9764ff89b6",
       "fabosaintras": "9051a2683b49a12f",
 
@@ -2553,7 +2554,7 @@
       "chainyola": ["admob2","Fan1"],
       //if you if
       "status": "1",
-      "onpckg1pk": "No", // Yes/No
+      "onpckg1pk": "Yes", // Yes/No
       "onpckg": "com.ethicalhackx.myapplication"
     }
   ]
