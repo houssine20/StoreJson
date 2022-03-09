@@ -19,6 +19,8 @@
       "lovinKey": "Applovin_SDK_Key_DHCP_example",
       "fabosabanio": "FanBANNER1",
       "fabosaintras": "FanINTER1",
+      "lovinNtvList":"Test_NtiveList",
+      "lovinMREC":"Test_MREC",
 
       "NmVers": "6.0", 
       "FirstUpdtArchvGH": "Yes", // Yes/No
@@ -2461,6 +2463,8 @@
       "lovinKey": "-TSAkJFAOAGrivmhQanmeRfPAzdb2-_q_s65D4ChEc72MrXdzuMkI2hrResIS9ON2LWHr0NuFIwksXoVvhbKU6",
       "fabosabanio": "ad23f9448e6d076f",
       "fabosaintras": "2f45b994799fa6e4",
+      "lovinNtvList":"test NtiveList",
+      "lovinMREC":"Test MREC",
 
       "NmVers": "4.4", 
       "FirstUpdtArchvGH": "No", // Yes/No
