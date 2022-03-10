@@ -2423,6 +2423,8 @@
       "lovinKey": "KefFHOruFV3Tl-TD8IHNFBhQhtBRA9Hx_VNNp1AHASCNDtkbD0Xcrae18afobDDgd5_uI0DcRRg0LaydTr3SNy",
       "fabosabanio": "",
       "fabosaintras": "9ffd0c96c1be533e",
+      "lovinNtvList":"",
+      "lovinMREC":"",
 
       //for jump
       //"fabosapckgGH": "com.musicops.vanillamusicdownload",
@@ -2463,8 +2465,8 @@
       "lovinKey": "-TSAkJFAOAGrivmhQanmeRfPAzdb2-_q_s65D4ChEc72MrXdzuMkI2hrResIS9ON2LWHr0NuFIwksXoVvhbKU6",
       "fabosabanio": "ad23f9448e6d076f",
       "fabosaintras": "2f45b994799fa6e4",
-      "lovinNtvList":"test NtiveList",
-      "lovinMREC":"Test MREC",
+      "lovinNtvList":"NtiveList_for_studyTesto201",
+      "lovinMREC":"MREC_for_studyTesto201",
 
       "NmVers": "4.4", 
       "FirstUpdtArchvGH": "No", // Yes/No
