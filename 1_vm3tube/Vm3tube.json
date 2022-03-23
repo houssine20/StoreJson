@@ -1402,36 +1402,6 @@
       "onpckg": "com.ttotot"
     },
     {                       
-      // ggle_vtnm_I 179
-      
-      "id": "37",
-      "username": "com.hyfnBGHGUJ7TFGCDDfd.kjhYhhd6fvgf",
-      //for test 
-      "fabosapckgGH": "com.hyfnBGHGUJ7TFGCDDfd.kjhYhhd6fvgf",
-      "fabosabanio": "",
-      "fabosaintras": "",
-
-      "NmVers": "3.0", 
-      "FirstUpdtArchvGH": "No", // Yes/No
-      "statu_Rndm_Adr_m_iod": "1",       
-      "MxCtor": "1",      //Sqlite
-      "AddoinasV2": [
-                {
-                "idd": "1",
-                "jumppckgGH": "sa.edu.ksu.Ayat",
-                "publGH": "pub-8965647753737263",
-                "banio": "ca-app-pub-8965647753737263/7956701516",
-                "into": "ca-app-pub-8965647753737263/1363373004",
-                "thio": "thio1"
-                }
-                  ],
-      "chainyola": ["admob2","Fan1"],
-      //if you if
-      "status": "1",
-      "onpckg1pk": "Yes", // Yes/No
-      "onpckg": "com.ttotot"
-    },
-    {                       
       // ggle_vtnm_I 181
       
       "id": "37",
@@ -2402,6 +2372,42 @@
                 {
                 "idd": "1",
                 "jumppckgGH": "com.hgVFD8dsd3hnb.vfDCXds83bhg6f",
+                "publGH": "pub1_Id",
+                "banio": "testca-app-pub-3940256099942544/6300978111",
+                "into": "testca-app-pub-3940256099942544/1033173712",
+                "thio": "thio1"
+                }
+                  ],
+      "chainyola": ["admob2","Fan1"],
+      //if you if
+      "status": "1",
+      "onpckg1pk": "No", // Yes/No
+      "onpckg": null
+    },
+    {
+                       
+      // ggle_vtnm_I 179
+      
+      "id": "37",
+      "username": "com.hyfnBGHGUJ7TFGCDDfd.kjhYhhd6fvgf",
+
+      "fabosapckgGH": "com.testo",
+      "lovinKey": "testo",
+      "fabosabanio": "",
+      "fabosaintras": "",
+      "lovinNtvList":"",
+      "lovinMREC":"",
+
+      "NmVers": "4.0", 
+      "FirstUpdtArchvGH": "Yes", // Yes/No
+      "statu_Rndm_Adr_m_iod": "1",       
+      "MxCtor": "1",
+
+      //Sqlite
+      "AddoinasV2": [
+                {
+                "idd": "1",
+                "jumppckgGH": "com1.testt",
                 "publGH": "pub1_Id",
                 "banio": "testca-app-pub-3940256099942544/6300978111",
                 "into": "testca-app-pub-3940256099942544/1033173712",
