@@ -1232,17 +1232,17 @@
       "fabosabanio": "",
       "fabosaintras": "",
 
-      "NmVers": "1.0", 
-      "FirstUpdtArchvGH": "No", // Yes/No
+      "NmVers": "2.0", 
+      "FirstUpdtArchvGH": "Yes", // Yes/No
       "statu_Rndm_Adr_m_iod": "1",       
       "MxCtor": "1",      //Sqlite
       "AddoinasV2": [
                 {
                 "idd": "1",
-                "jumppckgGH": "sa.edu.ksu.Ayat",
-                "publGH": "pub-8965647753737263",
-                "banio": "ca-app-pub-8965647753737263/7956701516",
-                "into": "ca-app-pub-8965647753737263/1363373004",
+                "jumppckgGH": "sa.testo",
+                "publGH": "test_pub-8965647753737263",
+                "banio": "test_ca-app-pub-8965647753737263/7956701516",
+                "into": "test_ca-app-pub-8965647753737263/1363373004",
                 "thio": "thio1"
                 }
                   ],
