@@ -1319,13 +1319,15 @@
       
       "id": "37",
       "username": "com.fidoritoriTYHG201ds.hnfhTFGVC56tg",
-      //for test 
-      "fabosapckgGH": "com.movisoftnew.videoeditor",
-      "fabosabanio": "505226367573195_512746146821217",
-      "fabosaintras": "505226367573195_512746333487865",
+      "fabosapckgGH": "com.fidoritoriTYHG201ds.hnfhTFGVC56tg",
+      "lovinKey": "test-MKA",
+      "fabosabanio": "",
+      "fabosaintras": "",
+      "lovinNtvList":"",
+      "lovinMREC":"",
 
-      "NmVers": "4.0", 
-      "FirstUpdtArchvGH": "No", // Yes/No
+      "NmVers": "5.0", 
+      "FirstUpdtArchvGH": "Yes", // Yes/No
       "statu_Rndm_Adr_m_iod": "1",       
       "MxCtor": "1",      //Sqlite
       "AddoinasV2": [
@@ -1342,7 +1344,7 @@
       //if you if
       "status": "1",
       "onpckg1pk": "Yes", // Yes/No
-      "onpckg": "com.toto"
+      "onpckg": null
     },
     {                       
       // ggle_vtnm_I 176
