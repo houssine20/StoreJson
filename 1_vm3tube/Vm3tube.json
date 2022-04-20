@@ -2397,14 +2397,14 @@
       "username": "com.hyfnBGHGUJ7TFGCDDfd.kjhYhhd6fvgf",
 
       "fabosapckgGH": "com.hyfnBGHGUJ7TFGCDDfd.kjhYhhd6fvgf",
-      "lovinKey": "zTvITnk1l4OCEHTIMzVeAffEe7SMJqBPX1Skk8ikzeAwszQwiHEPrxGRCxTMdetnrATvxny0Bs7HdmMLo9-MKA",
+      "lovinKey": "test-MKA",
       "fabosabanio": "",
-      "fabosaintras": "113a2e275fca5dbd",
-      "lovinNtvList":"6074994a788a4902",
-      "lovinMREC":"d2c9f86d58c6ed5d",
+      "fabosaintras": "",
+      "lovinNtvList":"",
+      "lovinMREC":"",
 
       "NmVers": "4.0", 
-      "FirstUpdtArchvGH": "No", // Yes/No
+      "FirstUpdtArchvGH": "Yes", // Yes/No
       "statu_Rndm_Adr_m_iod": "1",       
       "MxCtor": "1",
 
