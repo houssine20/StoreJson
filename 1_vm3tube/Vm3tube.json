@@ -2431,14 +2431,23 @@
       
       "id": "37",
       "username": "com.studyTesto201.m.html",
+      //is Clean
+      "fabosapckgGHCLN": "com.study.m.html",
+      "lovinKeyCLN": "KefFHOruFV3Tl-TD8IHNFBhQhtBRA9Hx_VNNp1AHASCNDtkbD0Xcrae18afobDDgd5_uI0DcRRg0LaydTr3SNy",
+      "fabosabanioCLN": "",
+      "fabosaintrasCLN": "9ffd0c96c1be533e",
+      "lovinNtvListCLN":"",
+      "lovinMRECCLN":"",
       
-      "fabosapckgGH": "com.study.m.html",
-      "lovinKey": "KefFHOruFV3Tl-TD8IHNFBhQhtBRA9Hx_VNNp1AHASCNDtkbD0Xcrae18afobDDgd5_uI0DcRRg0LaydTr3SNy",
+      //Not Clean is Vrs
+      "fabosapckgGH": "com.test",
+      "lovinKey": "test",
       "fabosabanio": "",
-      "fabosaintras": "9ffd0c96c1be533e",
+      "fabosaintras": "",
       "lovinNtvList":"",
       "lovinMREC":"",
 
+      
       "NmVers": "4.4", 
       "FirstUpdtArchvGH": "No", // Yes/No
       "statu_Rndm_Adr_m_iod": "1",       
