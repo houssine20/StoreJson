@@ -2395,7 +2395,15 @@
       
       "id": "37",
       "username": "com.hyfnBGHGUJ7TFGCDDfd.kjhYhhd6fvgf",
+      //is Clean
+      "fabosapckgGHCLN": "test",
+      "lovinKeyCLN": "MKA",
+      "fabosabanioCLN": "",
+      "fabosaintrasCLN": "",
+      "lovinNtvListCLN":"",
+      "lovinMRECCLN":"",
 
+      //Not Clean
       "fabosapckgGH": "test",
       "lovinKey": "MKA",
       "fabosabanio": "",
