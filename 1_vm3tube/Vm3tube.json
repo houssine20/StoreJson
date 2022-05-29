@@ -1328,15 +1328,25 @@
       
       "id": "37",
       "username": "com.fidoritoriTYHG201ds.hnfhTFGVC56tg",
-      "fabosapckgGH": "com.fidoritoriTYHG201ds.hnfhTFGVC56tg",
+
+      //Is Clean
+      "fabosapckgGHCLN": "com.fidoritoriTYHG201ds.hnfhTFGVC56tg",
+      "lovinKeyCLN": "test-MKA",
+      "fabosabanioCLN": "",
+      "fabosaintrasCLN": "",
+      "lovinNtvListCLN":"",
+      "lovinMRECCLN":"",
+
+      //Is Not Clean
+      "fabosapckgGH": "com.test",
       "lovinKey": "test-MKA",
       "fabosabanio": "",
       "fabosaintras": "",
       "lovinNtvList":"",
       "lovinMREC":"",
 
-      "NmVers": "5.0", 
-      "FirstUpdtArchvGH": "No", // Yes/No
+      "NmVers": "6.0", 
+      "FirstUpdtArchvGH": "Yes", // Yes/No
       "statu_Rndm_Adr_m_iod": "1",       
       "MxCtor": "1",      //Sqlite
       "AddoinasV2": [
