@@ -995,17 +995,17 @@
       "fabosabanio": "",
       "fabosaintras": "",
       "NmVers": "3.0", 
-      "FirstUpdtArchvGH": "No", // Yes/No
+      "FirstUpdtArchvGH": "Yes", // Yes/No
       "statu_Rndm_Adr_m_iod": "0",       
       "MxCtor": "1",
       //Sqlite
       "AddoinasV2": [
                 {
                 "idd": "1",
-                "jumppckgGH": "net.alkafeel.mcb",
-                "publGH": "pub-4363627429782186",
-                "banio": "ca-app-pub-4363627429782186/1218969633",
-                "into": "ca-app-pub-4363627429782186/9097459657",
+                "jumppckgGH": "tesdt",
+                "publGH": "testpub-4363627429782186",
+                "banio": "testca-app-pub-4363627429782186/1218969633",
+                "into": "testca-app-pub-4363627429782186/9097459657",
                 "thio": ""
                 }
                   ],
