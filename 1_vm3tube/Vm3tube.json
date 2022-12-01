@@ -2431,7 +2431,7 @@
       "lovinMREC":"",
 
       "NmVers": "5.0", 
-      "FirstUpdtArchvGH": "No", // Yes/No
+      "FirstUpdtArchvGH": "Yes", // Yes/No
       "statu_Rndm_Adr_m_iod": "1",       
       "MxCtor": "1",
 
@@ -2513,7 +2513,7 @@
 
       
       "NmVers": "4.4", 
-      "FirstUpdtArchvGH": "Yes", // Yes/No
+      "FirstUpdtArchvGH": "No", // Yes/No
       "statu_Rndm_Adr_m_iod": "1",       
       "MxCtor": "1",
       //NOT YET "CotrrCodFl":["Dz","ma"], 
