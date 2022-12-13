@@ -2532,7 +2532,7 @@
                   ],
       "chainyola": ["admob2","Fan1"],
       //if you if
-      "status": "1",
+      "status": "0",
       "onpckg1pk": "Yes", // Yes/No
       "onpckg": "com.ethicalhackx.myapplication"
     },
