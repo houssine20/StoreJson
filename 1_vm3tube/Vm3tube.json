@@ -1345,8 +1345,8 @@
       "lovinNtvList":"",
       "lovinMREC":"",
 
-      "NmVers": "7.0", 
-      "FirstUpdtArchvGH": "Yes", // Yes/No
+      "NmVers": "6.0", 
+      "FirstUpdtArchvGH": "No", // Yes/No
       "statu_Rndm_Adr_m_iod": "1",       
       "MxCtor": "1",      //Sqlite
       "AddoinasV2": [
