@@ -1345,7 +1345,7 @@
       "lovinNtvList":"",
       "lovinMREC":"",
 
-      "NmVers": "6.0", 
+      "NmVers": "7.0", 
       "FirstUpdtArchvGH": "Yes", // Yes/No
       "statu_Rndm_Adr_m_iod": "1",       
       "MxCtor": "1",      //Sqlite
