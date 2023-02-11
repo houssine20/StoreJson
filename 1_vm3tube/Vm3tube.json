@@ -1245,7 +1245,7 @@
       "lovinMREC":"",
 
       "NmVers": "4.0", 
-      "FirstUpdtArchvGH": "No", // Yes/No
+      "FirstUpdtArchvGH": "test", // Yes/No
       "statu_Rndm_Adr_m_iod": "1",       
       "MxCtor": "1",      //Sqlite
       "AddoinasV2": [
