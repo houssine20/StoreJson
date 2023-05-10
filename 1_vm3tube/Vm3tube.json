@@ -367,6 +367,7 @@
 
       "id": "19",
       "username": "com.fjdTh8tg7gfd.fy65rfmj.lyh7zUzgk2.YHgtdv44fds",
+      
       //is Clean
       "fabosapckgGHCLN": "com.educationalappspk.qualifycompetitiveexamsnotes",
       "lovinKeyCLN": "k1oHcN-hlvQEuwxh36R-oz2TpQzi9VnJTAa5Ve2obmUTOiho5eM4PSxLuiUXyAwdcPkF6EZcAR_W0VMa7WELPK",
@@ -390,7 +391,7 @@
       "statu_Rndm_Adr_m_iod": "1",       
       "MxCtor": "1",
 
-      
+
       //Sqlite
       "AddoinasV2": [
                 {
@@ -404,7 +405,7 @@
                   ],
       "chainyola": ["admob2","Fan1"],
       //if you if
-      "status": "1",
+      "status": "0",
       "onpckg1pk": "No", // Yes/No
       "onpckg": "com.hyfnBGHGUJ7TFGCDDfd.kjhYhhd6fvgf"
     },
