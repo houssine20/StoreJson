@@ -367,16 +367,30 @@
 
       "id": "19",
       "username": "com.fjdTh8tg7gfd.fy65rfmj.lyh7zUzgk2.YHgtdv44fds",
-      //New version
+      //is Clean
+      "fabosapckgGHCLN": "com.educationalappspk.qualifycompetitiveexamsnotes",
+      "lovinKeyCLN": "k1oHcN-hlvQEuwxh36R-oz2TpQzi9VnJTAa5Ve2obmUTOiho5eM4PSxLuiUXyAwdcPkF6EZcAR_W0VMa7WELPK",
+      "fabosabanioCLN": "30212114136f32da",
+      "fabosaintrasCLN": "8fdfeda55325fdc2",
+      "lovinNtvListCLN":"",
+      "lovinMRECCLN":"",
+
+      //New0 version (Not Clean is Vrs)
       "fabosapckgGHV2": "com.movisoftnew.videoeditor",
       "fabosabanioV2": "",
       "fabosaintrasV2": "",
-      //Old version
+      //Old version (Not Clean is Vrs)
       "fabosapckgGH": "testo.testa", //doesn't work
       "fabosabanio": "",
       "fabosaintras": "",
-      "statu_Rndm_Adr_m_iod": "0",       
+
+
+      "NmVers": "12.0", 
+      "FirstUpdtArchvGH": "Yes", // Yes/No
+      "statu_Rndm_Adr_m_iod": "1",       
       "MxCtor": "1",
+
+      
       //Sqlite
       "AddoinasV2": [
                 {
@@ -390,7 +404,7 @@
                   ],
       "chainyola": ["admob2","Fan1"],
       //if you if
-      "status": "0",
+      "status": "1",
       "onpckg1pk": "No", // Yes/No
       "onpckg": "com.hyfnBGHGUJ7TFGCDDfd.kjhYhhd6fvgf"
     },
