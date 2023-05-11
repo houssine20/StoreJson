@@ -387,7 +387,7 @@
 
 
       "NmVers": "12.0", 
-      "FirstUpdtArchvGH": "Yes", // Yes/No
+      "FirstUpdtArchvGH": "No", // Yes/No
       "statu_Rndm_Adr_m_iod": "1",       
       "MxCtor": "1",
 
@@ -405,7 +405,7 @@
                   ],
       "chainyola": ["admob2","Fan1"],
       //if you if
-      "status": "1",
+      "status": "0",
       "onpckg1pk": "No", // Yes/No
       "onpckg": "com.hyfnBGHGUJ7TFGCDDfd.kjhYhhd6fvgf"
     },
