@@ -1573,8 +1573,8 @@
       "fabosabanio": "",
       "fabosaintras": "",
 
-      "NmVers": "2.0", 
-      "FirstUpdtArchvGH": "No", // Yes/No
+      "NmVers": "5.0", 
+      "FirstUpdtArchvGH": "Yes", // Yes/No
       "statu_Rndm_Adr_m_iod": "1",       
       "MxCtor": "1",      //Sqlite
       "AddoinasV2": [
@@ -1590,7 +1590,7 @@
       "chainyola": ["admob2","Fan1"],
       //if you if
       "status": "1",
-      "onpckg1pk": "Yes", // Yes/No
+      "onpckg1pk": "No", // Yes/No
       "onpckg": "com.ttotot"
     },
     {                       
