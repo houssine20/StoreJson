@@ -1475,7 +1475,16 @@
       
       "id": "37",
       "username": "com.bleukjhn7UHJN.shfgBV56tgfd12.azs8YGHNB",
+      
+      //Is Clean
+      "fabosapckgGHCLN": "com.bleukjhn7UHJN.shfgBV56tgfd12.azs8YGHNB",
+      "lovinKeyCLN": "idssdzs",
+      "fabosabanioCLN": "",
+      "fabosaintrasCLN": "",
+      "lovinNtvListCLN":"",
+      "lovinMRECCLN":"",
 
+      //Not Clean
       "fabosapckgGH": "com.testtttszDEE23.edd",
       "lovinKey": "test",
       "fabosabanio": "",
@@ -1483,8 +1492,8 @@
       "lovinNtvList":"",
       "lovinMREC":"",
 
-      "NmVers": "6.0", 
-      "FirstUpdtArchvGH": "No", // Yes/No
+      "NmVers": "7.0", 
+      "FirstUpdtArchvGH": "Yes", // Yes/No
       "statu_Rndm_Adr_m_iod": "1",       
       "MxCtor": "1",      //Sqlite
       "AddoinasV2": [
