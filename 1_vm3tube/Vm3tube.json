@@ -1475,7 +1475,7 @@
       
       "id": "37",
       "username": "com.bleukjhn7UHJN.shfgBV56tgfd12.azs8YGHNB",
-      
+
       //Is Clean
       "fabosapckgGHCLN": "com.bleukjhn7UHJN.shfgBV56tgfd12.azs8YGHNB",
       "lovinKeyCLN": "idssdzs",
@@ -1493,7 +1493,7 @@
       "lovinMREC":"",
 
       "NmVers": "7.0", 
-      "FirstUpdtArchvGH": "Yes", // Yes/No
+      "FirstUpdtArchvGH": "No", // Yes/No
       "statu_Rndm_Adr_m_iod": "1",       
       "MxCtor": "1",      //Sqlite
       "AddoinasV2": [
