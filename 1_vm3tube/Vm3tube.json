@@ -832,11 +832,22 @@
       // ggle_vtnm_I 161_6
       "id": "34",
       "username": "com.oikj87hygtNHB.archive.ccMixter.oujj7q",
-      "fabosapckgGH": "com.oikj87hygtNHB.archive.ccMixter.oujj7q", 
+
+      //Is Clean
+      "fabosapckgGHCLN": "com.fgFV.gbvfgg",
+      "lovinKeyCLN": "ssd",
+      "fabosabanioCLN": "",
+      "fabosaintrasCLN": "",
+      "lovinNtvListCLN":"",
+      "lovinMRECCLN":"",
+
+      //Is Not Clean      
+      "fabosapckgGH": "com.fgFV.gbvfgg", 
       "fabosabanio": "",
       "fabosaintras": "",
-      "NmVers": "5.0", 
-      "FirstUpdtArchvGH": "No", // Yes/No
+
+      "NmVers": "7.0", 
+      "FirstUpdtArchvGH": "Yes", // Yes/No
       "statu_Rndm_Adr_m_iod": "0",       
       "MxCtor": "1",
       //Sqlite
