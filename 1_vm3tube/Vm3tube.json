@@ -2539,10 +2539,10 @@
       "id": "37",
       "username": "com.studyTesto201.m.html",
       //is Clean
-      "fabosapckgGHCLN": "com.educationalappspk.qualifycompetitiveexamsnotes",
-      "lovinKeyCLN": "k1oHcN-hlvQEuwxh36R-oz2TpQzi9VnJTAa5Ve2obmUTOiho5eM4PSxLuiUXyAwdcPkF6EZcAR_W0VMa7WELPK",
-      "fabosabanioCLN": "30212114136f32da",
-      "fabosaintrasCLN": "8fdfeda55325fdc2",
+      "fabosapckgGHCLN": "test",
+      "lovinKeyCLN": "test",
+      "fabosabanioCLN": "",
+      "fabosaintrasCLN": "",
       "lovinNtvListCLN":"",
       "lovinMRECCLN":"",
 
@@ -2575,7 +2575,7 @@
                   ],
       "chainyola": ["admob2","Fan1"],
       //if you if
-      "status": "0",
+      "status": "1",
       "onpckg1pk": "No", // Yes/No
       "onpckg": "ngon.helloworld"
     },
